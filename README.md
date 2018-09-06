@@ -1,2 +1,2 @@
 # toastmasters-kosice
-Toastmasters speeches, useful links and documents.
+Vybrané prejavy klubu Toastmasters Košice, užitočné odkazy a dokumenty.
