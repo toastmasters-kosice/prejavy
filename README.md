@@ -4,7 +4,7 @@
 Vybrané prejavy klubu [Toastmasters Košice][tm-kosice-website], užitočné odkazy a dokumenty.
 
 ## Licencia
-Obsah je poskytovaný v súlade s licenciou [CC BY-NC-ND 4.0]. V skratke, obsah môžete zdieľať a upravovať na nekomerčné účely za predpokladu, že uvediete pôvodného autora a zmeny zverejníte pod tou istou licenciou.
+Obsah je poskytovaný v súlade s licenciou [CC BY-NC-ND 4.0][cc-by-nc-sa]. V skratke, obsah môžete zdieľať a upravovať na nekomerčné účely za predpokladu, že uvediete pôvodného autora a zmeny zverejníte pod tou istou licenciou.
 
 [//]: # (Used references)
 [tm-kosice-website]: http://toastmasterskosice.eu/
