@@ -25,6 +25,8 @@ O čom sú však vedomosti, pokiaľ si ich všetky necháte len pre seba? To by 
 
 Robin Williams vo filme [Spolok mŕtvych básnikov][dead-poets-society] povedal: "Carpe diem, seize the day, boys". Užívajte si každý deň, lebo jedného dňa budete iba potrava pre červy. A tak sa snažme, aby sme každý deň využili naplno. Skúsme sa nezištne viac deliť o naše cenné poznatky a krôčik po krôčku tak posielať ľudstvo vpred.
 
+Ďakujem za pozornosť.
+
 [//]: # (Used references)
 [thinking-out-of-the-box]: https://en.wikipedia.org/wiki/Thinking_outside_the_box
 [knowledge-representation]: https://cs.wikipedia.org/wiki/Reprezentace_znalost%C3%AD
