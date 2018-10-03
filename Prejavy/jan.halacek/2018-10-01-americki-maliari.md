@@ -1,0 +1,24 @@
+---
+title:  "Americkí maliari"
+pathway: "Level 1"
+length: "5 to 7 minutes"
+date:   2018-10-01 19:00:00 +0200
+categories: toastmasters
+---
+
+# Americkí maliari
+Od malička ma bavilo kresliť, maľovať, modelovať, pracovať s drôtom či hlinou, vyrývať do linolea, jednoducho všeličo vytvárať. Ako dieťa som často siahal po farbičkách či voskovkách a doma som mal malý kútik, kde som sa mohol dosýta tvorivo vyšantiť.  Moji rodičia si tieto moje umelecké vlohy samozrejme všimli. Zapísali ma teda na výtvarnú výchovu na Základnej umeleckej škole (v Banskej Bystrici), kde som svoju záľubu mohol v plnej miere realizovať.
+
+Keď sa bavíme o výtvarnej výchove, otvára sa pred nami veľká kapitola vzdelávania. Žiadnu edukačnú oblasť neovplyvňuje žiak tak veľmi, ako výchovné predmety – najmä výtvarnú výchovu. Ovplyvňuje jej obsah, metódy, formy práce aj samotný proces hodnotenia, ktorý by mal prebiehať ako dialóg medzi učiteľom a žiakom. Ďalším špecifikom tohto predmetu je to, že sa bytostne dotýka najvnútornejších stránok ľudskej osobnosti – pretože v tvorbe by sa malo odzrkadľovať ľudské vnútro.
+
+Krúžok výtvarnej výchovy som absolvoval až do ukončenia stredoškolského vzdelania. Počas 8 rokov, ktoré som šťastne a kreatívne strávil v kolektíve ďalších žiakov, som si osvojil prácu so základnými vyjadrovacími prostriedkami výtvarného umenia. Týkalo sa to plošných aj plastických výtvarných disciplín, ako v praktickej tak aj teoretickej rovine. Myslel som si, že ma už v oblasti výtvarného umenia nemôže toho veľmi veľa prekvapiť.
+
+A potom, počas môjho vysokoškolského štúdia v Prešove, som v rámci predmetu US Arts and Media dostal za úlohu analyzovať dva obrazy od amerických maliarov: prvým bol obraz Breezing Up (A Fair Wind) (1873-1876) od Winslowa Homera a druhou maľbou bolo dielo Nighthawks (1942) od Edwarda Hoppera. Obe tieto diela mi veľmi učarovali, a to nielen ako samostatné obrazy, ale aj ako reprezentácia konkrétnych umeleckých smerov.
+
+Winslow Homer je nazývaný aj „básnik mora“, keďže jeho obrazy zobrazujú interakciu ľudí s morom, či už pracovnú alebo oddychovú. Jeho olejomaľba Breezing Up (A Fair Wind) zobrazuje plachetnicu, ktorá sa vracia z rekreačného rybárskeho výletu. Tento obraz vo mne vytvára pocit pohody a šťastia. Odkaz tohto diela je pozitívny – napriek rozbúreným vlnám pôsobí posádka plachetnice uvoľnene. Kotva na lodi sa dá chápať ako symbol nádeje. Chlapec, ktorý drží kormidlo, pozerá dopredu k obzoru, čo možno interpretovať ako jeho optimizmus smerom k svojej budúcnosti ako aj k budúcnosti mladých Spojených štátov amerických, ktoré v roku 1876 oslavovali svoju sté výročie. Kontrast medzi slnkom na tvárach chlapcov a tmavými mrakmi, ako aj ťah na kormidlové lano a oblúk plachtovej vzpery, dotvárajú na tejto maľbe dynamické napätie.
+
+Edward Hopper je jedným z najvýznamnejších mien americkej modernej realistickej maľby. V začiatkoch svojej umeleckej kariéry sa venoval predovšetkým ilustrovaniu. Potom sa ale rozhodol navštíviť vtedajšie centrum umeleckej tvorby, Paríž. Hoci sa v tej dobe vo Francúzsku šíril predovšetkým fauvizmus, kubizmus a novovznikajúca abstrakcia, Hoppera to nechávalo pomerne chladným. Naopak naňho zapôsobili trochu staršie vzory – duchovní otcovia impresionizmu Edgar Degas a Édouard Manet. Ich kompozíciami a tématikou moderného mestského života sa inšpiroval a vytvoril si svoj vlastný vizuálny štýl.
+
+Hopperova vrcholná tvorba je typická sýtymi farbami a pravouhlou kompozíciou a zaoberá sa mestskými výjavmi z kaviarní, domov a ulíc so špecifickou tichou až opustenou atmosférou. Postavy sú buď samé, alebo osamotené v podivných nekomunikujúcich kolektívoch. Tento popis presne sedí aj na Hopperov asi najznámejší obraz, Nighthawks z roku 1942. Za výkladom nočnej kaviarne pozorujeme troch zákazníkov pohrúžených do vlastných myšlienok. Keby obrazy vydávali nejaké zvuky, tento by určite znel ako dosluhujúca žiarovka. Nighthawks je tak ľahko rozpoznateľný obraz, že sa stal akýmsi novodobým kultom.
+
+Títo dvaja maliari a ich dielo ma zaujali preto, lebo hoci sa obaja venujú americkej realite, podávajú ju rozdielne. Winslow Homer vo svojich maľbách ponúka pocit nostalgie obalený do príjemných a teplých farieb. Edward Hopper naopak poukazuje na osamotenosť až odcudzenosť mestkého prostredia a z jeho obrazov priam dýcha melanchólia. Tvorba oboch umelcov ma nadchla až natoľko, že som si po skončení univerzitného štúdia zaumienil navštíviť výstavy ich obrazov. V prípade Winslowa Homera sa mi to podarilo, keď sa v roku 2006 konala v Londýne výstvava v Dulwich Picture Gallery. Bolo to vôbec prvé retrospektívne vystavnie jeho diela v Európe. No a dielo Edwarda Hoppera som mal možnosť naživo vidieť v National Gallery of Arts vo Washingtone, D.C.
