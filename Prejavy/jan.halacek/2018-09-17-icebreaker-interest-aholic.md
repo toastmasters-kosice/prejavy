@@ -7,7 +7,7 @@ categories: toastmasters icebreaker
 ---
 
 # Jan Haláček: An interest-aholic
-Dear fellow Toastmasters and esteemed guests.
+Dear fellow Toastmasters and esteemed guests,
 
 “What is this life, if full of care? We have no time to stand and stare.” These lines from the poem
 “Leisure” by W.H. Davies struck me as a fitting way to introduce myself. Because I care about many
@@ -29,12 +29,12 @@ structure. I could elaborate on the need to find structure in our lives but that
 speech. I am.
 
 I call myself an interest-aholic because I have many hobbies: I like swimming, cycling, hiking. I love to
-read, practice my EN, FR, RU and ES skills. I am a big IT buff who loves to learn new things about the
+read, practice my English, French, Russian and Spanish skills. I am a big IT buff who loves to learn new things about the
 latest software trends. But the term interest-aholic can have some thorny or unpleasant connotations —
 and in many cases, rightfully so. Having too many interests is associated with high levels of stress,
-strained relationships, and an unhealthy work-life balance. But I do not suffer from any of these. And
+strained relationships, and an unhealthy work-life balance. Fortunately, I do not suffer from any of these. And
 what is also important is the fact that if I drew the line at, let’s say, 5 hobbies, some of my most
-cherished career highlights or life moments wouldn't have occurred. The term interest-aholic has also
+cherished life moments or career highlights wouldn't have occurred. The term interest-aholic has also
 some other associated negatives but I choose not to dwell on those. But despite the fact that I am a man
 of many interests, I do have the time to stand and stare! Literally so!!! (Stare)
 
@@ -49,11 +49,11 @@ Prešov.
 I started my first job at the Chartered Institute of Linguists in London. Work has provided me the
 opportunity to travel abroad, both in Europe and the US. After 4 years in the UK, I returned to Slovakia
 and did my PhD studies here in Košice. After I completed those, I got employed in AT&T and then I was
-hired by an IT company called GlobalLogic where I work until now.
+hired by an IT company called GlobalLogic where I work as a technical wroter to this day.
 
-The other activity in my life is regular exercise. This is something that I have tried and instill over the past
+The other activity in my life is regular exercise. This is something that I have tried to instill in my daily routine over the past
 3 years. Since I was a teenager I have been interested in building a strong physique. I now try and run 3
-times a week, to build my stamina and keep myself fit. I also love most sports; I am a decent badminton
+times a week, to build my stamina and keep myself fit. I also love several other sports -- I am a decent badminton
 player and a swimmer. A healthy mind in a healthy body!
 
 I would like to end my speech with a little French and Spanish: Bonne soirée à tous!, i.e. Have a good
