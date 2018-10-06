@@ -1,8 +1,9 @@
 ---
-title:  "Moja cesta k Toastmasters"
+title: "Moja cesta k Toastmasters"
 pathway: "Strategic Relationships, Level 1, Ice Breaker"
 length: "4 to 6 minutes"
-date:   2018-09-17 18:00:00 +0200
+date: 2018-09-17 19:00:00 +0200
+video: https://www.youtube.com/watch?v=mpaHS8KfgJc
 categories: toastmasters icebreaker
 ---
 
