@@ -21,6 +21,10 @@ Uvažovať môžete o dobrovoľných finančných príspevkoch cez sprostredkova
 Na získanie finančných prostriedkov môžete využiť aj v súčasnosti populárne crowdfundingové platformy ako [Kickstarter][kickstarter], 
 [Indiegogo][indiegogo] či čoraz populárnejší [Patreon][patreon]. V kampani môžete ponúknuť, že po splnení cieľa kampane dorobíte do populárneho softvéru nejakú žiadanú funkcionalitu alebo v závislosti od príspevku pošlete darcovi darčekové predmety. Je to na vás. Takýmto spôsobom sa financuje vývoj kresliaceho nástroja [Krita][krita]. Vývojári sa môžu venovať tomu čo ich baví a majú za to zaplatené.
 
+Model, ktorý sa snažím v súčasnosti uplatňovať ja, je vyvinúť časť softvéru ako open source a poskytnúť ho všetkým. To, za čo si nechám zaplatiť je ďalšia funkcionalita, ktorá využíva moje know-how v danej oblasti. Aktuálne pracujem na produkte pre Arduino, ktorého úlohou je zabezpečiť ovládanie spojky a prevodovky pomocou sekvenčného riadenia na volante. K produktu chceme poskytnúť základné knižnice na zabezpečenie nutnej funkčnosti ako open source, aby si ktokoľvek mohol na tomto riešení spraviť svoje vlastné. No ak už niekto bude chcieť hotový produkt, tak si priplatí. 
+
+V neposlednom rade je prispievanie do open source aj forma sebaprezentácie. Vašu prácu je skrátka vidieť. Váš profil na GitHube je dnes pre recruiterov užitočnejší ako desiatky referencií na LinkedIne. Už neraz ma niekto kontaktoval s pracovnou ponukou vďaka takémuto profilu.
+
 Ako vidíte, aj z open source softvéru sa dá vyžiť. Stačí byť kreatívny a myslieť trochu inak.
 
 [//]: # (Used references)
