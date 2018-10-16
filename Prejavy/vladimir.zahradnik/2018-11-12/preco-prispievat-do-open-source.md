@@ -10,7 +10,7 @@ categories: toastmasters opensource
 # Prečo prispievať do open source
 V mojej poslednej prednáške som sa vám pokúsil vysvetliť, čo je to open source. Niektorí z vás mohli nadobudnúť pociť, že prispievanie do open source je čisto charitatívna činnosť, keďže softvér je zadarmo. Keby to tak bolo, open source by vôbec nebol taký rozšírený, ako je tomu dnes.
 
-Dnes sa pokúsim poukázať na to, že aj open source vás môže živit, ak si vyberiete ten správny [model financovania][open-source-business-models]. Možno vás to inšpiruje a v budúcnosti o takejto alternatíve budete aspoň uvažovať.
+Dnes sa pokúsim poukázať na to, že aj open source vás môže živiť, ak si vyberiete ten správny [model financovania][open-source-business-models]. Možno vás to inšpiruje a v budúcnosti o takejto alternatíve budete aspoň uvažovať.
 
 Open source softvér je poskytovaný zvyčajne bez akejkoľvek zákazníckej podpory. Diskusné fóra nie sú pre firmy, ktoré takýto softvér používajú komerčne, dostatočné. To sa dá využiť. Pokiaľ takýto softvér vyvíjate, môžete ponúkať platenú technickú podporu alebo konzultačné služby. To je hlavným zdrojom príjmov firmy [Red Hat][red-hat], ktorej hlavná vývojová centrála sa nachádza v Brne. Jej hlavný produkt je linuxová distribúcia [Fedora][fedora], ktorá je poskytovaná úplne zadarmo bez akejkoľvek zákazníckej podpory. Firmy, ktoré o podporu majú záujem, si môžu kúpiť komerčný variant [Red Hat Enterprise Linux][rhel]. Firma taktiež ponúka aj rozličné platené certifikácie.
 
@@ -23,7 +23,7 @@ Na získanie finančných prostriedkov môžete využiť aj v súčasnosti popul
 
 Model, ktorý sa snažím v súčasnosti uplatňovať ja, je vyvinúť časť softvéru ako open source a poskytnúť ho všetkým. To, za čo si nechám zaplatiť je ďalšia funkcionalita, ktorá využíva moje know-how v danej oblasti. Aktuálne pracujem na produkte pre Arduino, ktorého úlohou je zabezpečiť ovládanie spojky a prevodovky pomocou sekvenčného riadenia na volante. K produktu chceme poskytnúť základné knižnice na zabezpečenie nutnej funkčnosti ako open source, aby si ktokoľvek mohol na tomto riešení spraviť svoje vlastné. No ak už niekto bude chcieť hotový produkt, tak si priplatí. 
 
-V neposlednom rade je prispievanie do open source aj forma sebaprezentácie. Vašu prácu je skrátka vidieť. Váš profil na GitHube je dnes pre recruiterov užitočnejší ako desiatky referencií na LinkedIne. Už neraz ma niekto kontaktoval s pracovnou ponukou vďaka takémuto profilu.
+V neposlednom rade je prispievanie do open source aj formou sebaprezentácie. Vašu prácu je skrátka vidieť. Váš profil na GitHube je dnes pre recruiterov užitočnejší ako desiatky referencií na LinkedIne. Už neraz ma niekto kontaktoval s pracovnou ponukou vďaka takémuto profilu.
 
 Ako vidíte, aj z open source softvéru sa dá vyžiť. Stačí byť kreatívny a myslieť trochu inak.
 
