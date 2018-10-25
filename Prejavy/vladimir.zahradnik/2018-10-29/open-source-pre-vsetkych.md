@@ -9,9 +9,9 @@ categories: toastmasters opensource
 
 # Open source pre všetkých
 Ahojte,
-dnes by som vám rád niečo povedal o tom, čo je to open source a o jeho vplyve na našu spoločnosť. Kým začnem, dovoľte mi krátku otázku. Skúste zdvihnúť ruku tí, ktorí už tento termín počuli. A teraz tí, ktorí si aj myslia, že vedia, čo znamená. Ďakujem. Poďme sa teraz na to spolu pozrieť podrobnejšie.
+dnes by som vám rád niečo povedal o tom, čo je to open source a o jeho vplyve na našu spoločnosť. Kým začnem, dovoľte mi krátku otázku. Skúste zdvihnúť ruku tí, ktorí už tento pojem počuli. A teraz tí, ktorí si aj myslia, že vedia, čo znamená. Ďakujem. Poďme sa teraz na to spolu pozrieť podrobnejšie.
 
-V časoch nástupu prvých domácich počítačov v šesťdesiatych rokoch minulého storočia bol softvér poskytovaný väčšinou bezplatne a bez obmedzení. Cena za vývoj softvéru bola započítaná už do ceny počítača, ktorý ste si kúpili. Bez softvéru bol takýto počítač iba drahé drahé závažie na stole. Postupne koncom 70. rokov začali firmy pridávať do svojich licencií obmedzenia pre používateľov. V roku 1984 sa týmto začal zaoberať Richard Stallman. Zadefinoval pojmy ["slobodný softvér"][gnu-philosophy] a ["copyleft"][copyleft] ako protipól k autorskému právu a založil Nadáciu pre slobodný softvér, [Free Software Foundation][free-software-foundation]. Slobodný softvér vracia slobodu do rúk požívateľov. Tí ho môžu používať bez akýchkoľvek obmedzení, môžu ho ďalej upravovať, vylepšovať a tieto zmeny publikovať pre úžitok celej komunity. Protipólom je komerčný "proprietárny" softvér, kde väčšina práv patrí vlastníkovi a používateľ môže robiť len to, čo mu vlastník dovolí.
+V časoch nástupu prvých domácich počítačov v šesťdesiatych rokoch minulého storočia bol softvér poskytovaný väčšinou bezplatne a bez obmedzení. Cena za vývoj softvéru bola započítaná už do ceny počítača, ktorý ste si kúpili. Bez softvéru bol takýto počítač iba drahé závažie na stole. Postupne koncom 70. rokov začali firmy pridávať do svojich licencií obmedzenia pre používateľov. V roku 1984 sa týmto začal zaoberať Richard Stallman. Zadefinoval pojmy ["slobodný softvér"][gnu-philosophy] a ["copyleft"][copyleft] ako protipól k autorskému právu a založil Nadáciu pre slobodný softvér, [Free Software Foundation][free-software-foundation]. Slobodný softvér vracia slobodu do rúk požívateľov. Tí ho môžu používať bez akýchkoľvek obmedzení, môžu ho ďalej upravovať, vylepšovať a tieto zmeny publikovať pre úžitok celej komunity. Opakom je komerčný "proprietárny" softvér, kde väčšina práv patrí vlastníkovi a používateľ môže robiť len to, čo mu vlastník dovolí.
 
 Open source vychádza z filozofie slobodného softvéru. Hlavným rozdielom je, že pripúšťa aj také licencovanie, ktoré umožňujú komerčné použitie softvéru. Podstatným je zverejnenie zdrojových kódov. Pojem open source bol zadefinovaný pred 20 rokmi, pričom krátko na to vznikla [Open Source Initiative][open-source-initiative], ktorá to celé zastrešuje. V rámci tejto prednášky budem brať oba termíny ako rovnocenné.
 
@@ -23,9 +23,11 @@ Ak je potrebná rýchlejšia komunikácia medzi vývojármi, zvykne sa používa
 
 Open source je hlavne o komunite. O vývojároch tvoriacich produkt, ale najmä o používateľoch. Tým, že je softvér väčšinou zadarmo, rýchlo sa dostane k miliónom ľudí po celom svete. Verím, že mnohí poznáte a asi aj používate prehrávač videa [VLC][vlc] alebo grafický editor [GIMP][gimp]. Ak nie ste vývojár, viete sa zapojiť aj inak. Môžete pomáhať iným používateľom riešiť problémy, hlásiť chyby v programoch, pomôcť s písaním dokumentácie, ale aj prispieť prekladom do slovenčiny. Možností je veľa.
 
-Aj keď pôvodne bol open source len o softvéri, časom sa to prenieslo aj do iných oblastí. A tak tu dnes máme databázu voľne dostupných fotografií, kníh, hudby, videa, dokonca voľne dostupnú encyklopédiu - Wikipédiu.
+Možno aj vy pracujete na vývoji nejakého produktu. Predpokladám, že väčšina vašich kolegov je niekde vedľa vás, čo zjednodušuje komunikáciu a šetrí čas. A teraz si predstavte aké je to komunikovať výlučne cez internet. Cez chat, videohovory a diskusné fóra. Môže sa to zdať príliš neosobné a dlhodobo to môže mať vplyv na členov tímu, ktorí takto pracujú. Pre tímy je skrátka prospešné zabezpečiť aj osobný zážitok, kde sa ľudia stretnú osobne, prediskutujú veci, zabavia sa. Rieši sa to častokrát organizovaním rôznych meetupov, konferencií a schôdzí. Vývojári Pythonu majú svoj [PyCon][pycon], vývojári Linuxu majú [Embedded Linux Conference][embedded-linux-conf] a takto môžeme pokračovať ďalej. Zapájajú sa aj univerzity. V Prahe sa koná [LinuxDays][linuxdays], v Brne [OpenAlt], v Bratislave [OpenCamp][opencamp] a v Košiciach [OSS víkend Košice][oss-vikend-ke]. Takéto podujatia obsahujú prednášky rôznych expertov, workshopy a hlavne možnosť sa stretnúť s podobne zanietenými ľuďmi ako vy osobne.
 
-Ako vidno, open source má obrovské rozmery a vplyv. Používate ho a častokrát o tom ani neviete. Táto prednáška sa to pokúsila aspoň trochu zmeniť. Verím, že aspoń niektorí sa začnete o tieto veci viac zaujímať. A ak by ste chceli vedieť ešte viac, zastavte sa za mnou alebo mi napíšte. Rád vám odpoviem.
+Aj keď pôvodne bol open source len o softvéri, časom sa to prenieslo aj do iných oblastí. A tak tu dnes máme databázu voľne dostupných fotografií, kníh, hudby, videa, dokonca voľne dostupnú encyklopédiu - [Wikipédiu][wikipedia].
+
+Ako vidno, open source má obrovské rozmery a vplyv. Používate ho a častokrát o tom ani neviete. Táto prednáška sa to pokúsila aspoň trochu zmeniť. Verím, že aspoň niektorí sa začnete o tieto veci zaujímať. A ak by ste chceli vedieť ešte viac, zastavte sa za mnou alebo mi napíšte. Rád vám odpoviem.
 
 Ďakujem za pozornosť.
 
@@ -39,3 +41,10 @@ Ako vidno, open source má obrovské rozmery a vplyv. Používate ho a častokr�
 [linux]: https://www.linux.org/
 [vlc]: https://www.videolan.org/index.sk.html
 [gimp]: https://www.gimp.org/
+[pycon]: https://2018.pycon.sk/en/index.html
+[embedded-linux-conf]: http://www.embeddedlinuxconference.com/
+[linuxdays]: https://www.linuxdays.cz/2018/
+[openalt]: https://openalt.cz/2018/
+[opencamp]: https://opencamp.sk/
+[oss-vikend-ke]: http://ossvikend.sk/
+[wikipedia]: https://sk.wikipedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka
