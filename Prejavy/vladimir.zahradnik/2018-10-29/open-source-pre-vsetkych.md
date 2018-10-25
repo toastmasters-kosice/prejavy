@@ -27,7 +27,7 @@ Ak ste pracovali niekedy na vývoji produktu, asi si uvedomujete aká dôležit�
 
 Aj keď pôvodne bol open source len o softvéri, časom sa to prenieslo aj do iných oblastí. A tak tu dnes máme databázu voľne dostupných fotografií, kníh, hudby, videa, dokonca voľne dostupnú encyklopédiu - [Wikipédiu][wikipedia].
 
-Ako vidno, open source má obro vské rozmery a vplyv. Používate ho a častokrát o tom ani neviete. Táto prednáška sa to pokúsila aspoň trochu zmeniť. Verím, že aspoň niektorí sa začnete o tieto veci zaujímať. A ak by ste chceli vedieť ešte viac, zastavte sa za mnou alebo mi napíšte. Rád vám odpoviem.
+Ako vidno, open source je jednoducho všade. Používate ho a častokrát o tom ani neviete. Táto prednáška sa to pokúsila aspoň trochu zmeniť. Verím, že aspoň niektorí sa začnete o tieto veci zaujímať. A ak by ste chceli vedieť ešte viac, zastavte sa za mnou alebo mi napíšte. Rád vám odpoviem.
 
 Ďakujem za pozornosť.
 
