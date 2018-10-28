@@ -9,7 +9,7 @@ categories: toastmasters opensource
 
 # Open source pre všetkých
 Ahojte,
-dnes by som vám rád niečo povedal o tom, čo je to open source a o jeho vplyve na našu spoločnosť. Skôr kým začnem, dovoľte mi dve krátke otázky. Skúste zdvihnúť ruku tí, ktorí už tento pojem počuli. A teraz tí, ktorí si aj myslia, že vedia, čo znamená. Ďakujem. Poďme sa teraz na to spolu pozrieť podrobnejšie.
+Linus Torvalds, tvorca Linuxu, povedal: Ak je produkt open source, znamená to, že ja môžem pracovať na technickej stránke veci, spolu s ďalšími, a tí, čo majú záujem, môžu na tom založiť svoje podnikanie. Ja zase vravím, že je to aj o tom, ako nevymýšľať stále dookola koleso. Vplyv open source je v súčasnosti obrovský, ale čo to vlastne je? Počuli ste niekedy pojem open source? Ak áno, skúste zodvihnúť ruku. Poďme sa teraz na to spolu pozrieť podrobnejšie.
 
 V časoch nástupu prvých domácich počítačov v šesťdesiatych rokoch minulého storočia bol softvér poskytovaný väčšinou bezplatne a bez obmedzení. Cena za vývoj softvéru bola započítaná už do ceny počítača, ktorý ste si kúpili. Bez softvéru bol takýto počítač iba drahé závažie na stole. Postupne koncom 70. rokov začali firmy pridávať do svojich licencií obmedzenia pre používateľov. V roku 1984 sa týmto začal zaoberať Richard Stallman. Zadefinoval pojmy ["slobodný softvér"][gnu-philosophy] a ["copyleft"][copyleft] ako protipól k autorskému právu a založil Nadáciu pre slobodný softvér, [Free Software Foundation][free-software-foundation]. Slobodný softvér vracia slobodu do rúk požívateľov. Tí ho môžu používať bez akýchkoľvek obmedzení, môžu ho ďalej upravovať, vylepšovať a tieto zmeny publikovať pre úžitok celej komunity. Opakom je komerčný "proprietárny" softvér, kde väčšina práv patrí vlastníkovi a používateľ môže robiť len to, čo mu vlastník dovolí.
 
@@ -27,7 +27,7 @@ Ak ste pracovali niekedy na vývoji produktu, asi si uvedomujete aká dôležit�
 
 Aj keď pôvodne bol open source len o softvéri, časom sa to prenieslo aj do iných oblastí. A tak tu dnes máme databázu voľne dostupných fotografií, kníh, hudby, videa, dokonca voľne dostupnú encyklopédiu - [Wikipédiu][wikipedia].
 
-Ako vidno, open source je jednoducho všade. Používate ho a častokrát o tom ani neviete. Táto prednáška sa to pokúsila aspoň trochu zmeniť. Verím, že aspoň niektorí sa začnete o tieto veci zaujímať. A ak by ste chceli vedieť ešte viac, zastavte sa za mnou alebo mi napíšte. Rád vám odpoviem.
+Open source je jednoducho všade. Používame ho a častokrát o tom ani nevieme. Pritom je to aj skvelá príležitosť ako rozbehnúť podnikanie. Len treba uvažovať o inom modeli financovania. A práve na to sa pozriem v mojom ďalšom prejave. Verím, že vás táto prednáška inšpirovala a rád zodpoviem na vaše otázky.
 
 Ďakujem za pozornosť.
 
