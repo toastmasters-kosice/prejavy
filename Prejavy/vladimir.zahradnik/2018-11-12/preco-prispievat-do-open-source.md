@@ -39,6 +39,7 @@ Tento video streamovací server si všimne sieť predajní Tesco, ktorá potrebu
 Na príklade Roberta som sa pokúsil poukázať, že aj keď je vaša práca celá zverejnená, môžete na tom zarobiť, ak ste dostatočne kreatívni. Open source je váš pomocník, nie nepriateľ. Verím, že vás tento príbeh inšpiroval dozvedieť sa o open source o niečo viac.
 
 Ďakujem za pozornosť.
+
 [//]: # (Used references)
 [open-source-business-models]: https://en.wikipedia.org/wiki/Business_models_for_open-source_software
 [octocat]: http://cameronmcefee.com/work/the-octocat/
