@@ -8,35 +8,40 @@ categories: toastmasters opensource
 ---
 
 # Prečo prispievať do open source
-V mojej poslednej prednáške som sa vám pokúsil vysvetliť, čo je to open source. Niektorí z vás mohli nadobudnúť pociť, že prispievanie do open source je čisto charitatívna činnosť, keďže softvér je zadarmo. Keby to tak bolo, open source by vôbec nebol taký rozšírený, ako je tomu dnes.
+Na mojej minulej prednáške som sa zaoberal tým, čo je to open source. Pre tých, čo ste tu neboli, tu je stručná verzia. Ide predovšetkým o spôsob vývoja softvéru, keď zdrojový kód zverejníte. Ak neviete, čo je to zdrojový kód, tak si skúste predstaviť, že píšete knihu, a túto knihu celú zverejníte na internete úplne zadarmo. Môže si ju prečítať každý. Väčšinu z vás zrejme napadne: "Ale veď takto nič nezarobím!" alebo "Čo som charita? Prečo by som dával svoju prácu zadarmo?". Asi vás prekvapím, ale prispievanie do open source vás môže živiť. Len si musíte zvoliť ten správny [model financovania][open-source-business-models]. Pre iných to zase môže byť spôsob ako sa zviditeľniť, vďaka čomu získajú prácu snov. Poďme sa spolu pozrieť na príbeh Roberta, ktorému open source zmenil život.
 
-Dnes sa pokúsim poukázať na to, že aj open source vás môže živiť, ak si vyberiete ten správny [model financovania][open-source-business-models]. Možno vás to inšpiruje a v budúcnosti o takejto alternatíve budete aspoň uvažovať.
+Keď som si pred pár rokmi pozeral video prednášky z UC Berkeley, profesor Armando Fox sa spýtal študentov, čo je na obrázku. (Pozn. vytlačiť a ukázať logo GitHubu). Viete, čo je to za maskota? Ja som v tom čase nevedel. Ale viac ako polovica študentov áno. Je to [Octocat][octocat], napoly mačka, napoly chobotnica. Symbol GitHubu, ktorý bol v Silicon Valley v tom čase na každom rohu. Open source má počiatky v Silicon Valley, odkiaľ sa rozšíril po celých Spojených štátoch až do celého sveta. Kým u nás sme sa s open source iba opatrne zoznamovali, študenti na amerických vysokých školách brali prispievanie do open source ako samozrejmosť. A neinak tomu bolo už aj na stredných školách.
 
-Open source softvér je poskytovaný zvyčajne bez akejkoľvek zákazníckej podpory. Diskusné fóra nie sú pre firmy, ktoré takýto softvér používajú komerčne, dostatočné. To sa dá využiť. Pokiaľ takýto softvér vyvíjate, môžete ponúkať platenú technickú podporu alebo konzultačné služby. To je hlavným zdrojom príjmov firmy [Red Hat][red-hat], ktorej hlavná vývojová centrála sa nachádza v Brne. Jej hlavný produkt je linuxová distribúcia [Fedora][fedora], ktorá je poskytovaná úplne zadarmo bez akejkoľvek zákazníckej podpory. Firmy, ktoré o podporu majú záujem, si môžu kúpiť komerčný variant [Red Hat Enterprise Linux][rhel]. Firma taktiež ponúka aj rozličné platené certifikácie.
+## 1. Zviditeľnenie sa a budovanie osobnej značky
+Pred pár dňami som čítal blog amerického stredoškoláka, volajme ho Robert. Robert má 12 rokov a už teraz si uvedomuje, aké dôležité je mať vlastné portfólio. Niečo čo môžete ukázať potenciálnemu zamestnávateľovi. Uvedomuje si, že blogovanie je nutnosť. Okrem blogovania chodí na Reddit, snaží sa odpovedať na technické otázky na Quore a StackOverflow. Hlavne je však rozhodnutý prispieť do nejakého open source projektu. Prečo? Práve, aby sa zviditeľnil. Jeho prácu čítajú stovky ďalších ľudí. Ak je projekt populárny, ako v súčasnosti napr. React od Facebooku, a on tam opraví nejakú chybu, hneď je to vidieť. A nemusí to byť ani nič zložité. Taktiež mu komentáre od ostatných vývojárov pomáhajú zlepšovať sa v tom, čo robí.
 
-Ďalšou možnosťou je poskytovanie softvéru v rámci [Software-as-a-Service (SaaS)][saas]. Podstatou je, že softvér beží kompletne na webe u prevádzkovateľa služby. Odpadajú problémy s inštaláciou na stovky počítačov zákazníka a aktualizáciami. Zákazník tiež nemusí riešiť vlastné servery na takúto službu. Prevádzkovateľ tiež môže ponúkať ďalšie balíky služieb podľa rôznych potrieb zákazníkov, za čo si samozrejme nechá zaplatiť. Ako príklad uvediem [GitLab][gitlab], ktorý má cenovú ponuku služieb v rozmedzí 0 až 100 eur mesačne na jedného používateľa. Komu to však nevyhovuje, ten si môže ich softvér rozbehať na svojom vlastnom počítači.
+Keď sa Robert rozhodne o pár rokov neskôr študovať na vysokej škole, už v prvom ročníku má celkom dobrú prax. Univerzita mu poskytuje dôležité zázemie a ďalšie možnosti rastu. Čo však bude robiť počas veľkých prázdnin? Skvelou možnosťou je...
 
-Uvažovať môžete o dobrovoľných finančných príspevkoch cez sprostredkovateľov ako PayPal. Na vašej stránke tiež môžete spraviť e-shop s reklamnými a darčekovými predmetmi, ako sú tričká, mikiny či hrnčeky. Získate ďalší zdroj príjmov a podporíte zavedenú značku. Tiež môžete zaviesť [systém odmien][bounty-driven-development]. Ide o zvyčajne menšiu finančnú odmenu, ktorú zaplatí používateľ softvéru vývojárovi za dorobenie nejakej funkcionality alebo za opravenie chyby v softvéri. V prípade rozsiahlejších zmien môžu projekty žiadať o rôzne granty alebo sa zapojiť do programov ako je [Google Summer of Code][gsoc]. Ten funguje tak, že Googlu odošlete návrh na projekty, do ktorých sa môžu zapojiť študenti. Ide častokrát o novú funkcionalitu vo vašom softvéri alebo vylepšenie už existujúcej funkčnosti. Ak vás Google spomedzi organizácií vyberie, zoznam projektov sa zverejní a študenti si môžu vybrať, na čom chcú pracovať cez leto. Po finálnom schválení to funguje ako mentor-mentee program, kde niekto z vašej organizácie pomáha študentovi splniť cieľ. Študent dostane za svoj čas zaplatené od Googlu. Samozrejme, za splnenia podmienok programu.
+## 2. [Google Summer of Code][gsoc]
+[Google Summer of Code][gsoc] funguje tak, že neziskové organizácie odošlú Googlu návrhy projektov, do ktorých sa môžu zapojiť študenti. Ide častokrát o novú funkcionalitu v softvéri alebo vylepšenie tej existujúcej. Robert si na webovej stránke vyberie organizáciu a projekt, na ktorom by chcel pracovať. Roberta baví spracovanie videa a má záujem pracovať na projekte Super Resolution filtra, ktorý dokáže zväčšiť obrázok tak, aby nebol rozmazaný, pričom sa na to využije umelá inteligencia. Robert kontaktuje organizáciu FFmpeg, tí mu dajú vyriešiť úlohu, aby posúdili jeho schopnosti. Ak sa kvalifikuje, dostane mentora, ktorý s ním bude na projekte pracovať počas celého leta. Po splnení podmienok mu Google vyplatí štipendium v troch častiach. Pre zaujímavosť, pre Slovensko bola výška štipendia tento rok stanovená na 4200 dolárov.
 
-Na získanie finančných prostriedkov môžete využiť aj v súčasnosti populárne crowdfundingové platformy ako [Kickstarter][kickstarter], 
-[Indiegogo][indiegogo] či čoraz populárnejší [Patreon][patreon]. V kampani môžete ponúknuť, že po splnení cieľa kampane dorobíte do populárneho softvéru nejakú žiadanú funkcionalitu alebo v závislosti od príspevku pošlete darcovi darčekové predmety. Je to na vás. Takýmto spôsobom sa financuje vývoj kresliaceho nástroja [Krita][krita]. Vývojári sa môžu venovať tomu čo ich baví a majú za to zaplatené.
+## 3. Predaj reklamných predmetov
+V treťom ročníku na vysokej škole začne Robert pracovať na prehrávači videa. Založí si na GitHube nový projekt a začne doňho prispievať vo svojom voľnom čase. Projekt začína byť úspešný a priláka ďalších vývojárov. Časom sa z malého projektu stane masovo používaný video prehrávač. Robert vytvorí neziskovú organizáciu VideoGem, pod ktorú presunie vývoj. Pod hlavičkou organizácie vytvorí webové stránky, na ktorých umiestní PayPal odkaz pre príjem dobrovoľných príspevkov od používateľov. V rámci stránky vytvorí e-shop na predaj reklamných a darčekových predmetov. Tričká, mikiny či hrnčeky. Tieto veci ešte viac posilnia zavedenú značku. Spokojný je Robert a aj používatelia.
 
-Model, ktorý sa snažím v súčasnosti uplatňovať ja, je vyvinúť časť softvéru ako open source a poskytnúť ho všetkým. To, za čo si nechám zaplatiť je ďalšia funkcionalita, ktorá využíva moje know-how v danej oblasti. Aktuálne pracujem na produkte pre Arduino, ktorého úlohou je zabezpečiť ovládanie spojky a prevodovky pomocou sekvenčného riadenia na volante. K produktu chceme poskytnúť základné knižnice na zabezpečenie nutnej funkčnosti ako open source, aby si ktokoľvek mohol na tomto riešení spraviť svoje vlastné. No ak už niekto bude chcieť hotový produkt, tak si priplatí. 
+VideoGem začína mať dostatočné príjmy na zabezpečenie platov pre všetkých hlavných vývojárov, ktorí sa môžu projektu venovať naplno. Príjmy sú dokonca také veľké, že VideoGem zavedie [systém odmien][bounty-driven-development].
 
-V neposlednom rade je prispievanie do open source aj formou sebaprezentácie. Vašu prácu je skrátka vidieť. Váš profil na GitHube je dnes pre recruiterov užitočnejší ako desiatky referencií na LinkedIne. Už neraz ma niekto kontaktoval s pracovnou ponukou vďaka takémuto profilu.
+## 4. Systém odmien
+Ide o zvyčajne menšiu finančnú odmenu, ktorú zaplatí VideoGem externému vývojárovi za dorobenie nejakej funkcionality alebo za opravenie chyby v softvéri. Tým motivuje vývojárov prispievať do projektu a z tých najlepších sa časom stanú kmeňoví členovia organizácie. Navyše VideoGem umožňuje vypisovať odmeny aj používateľom, ktorým funkcionalita chýba a sú ochotní si za ňu zaplatiť.
 
-Ako vidíte, aj z open source softvéru sa dá vyžiť. Stačí byť kreatívny a myslieť trochu inak.
+## 5. Crowdfunding
+Projekt rastie viac a viac a jeho obľúbenosť raketovo stúpa. O dva roky si VideoGem povie, že je načase túto popularitu zúročiť a zúčastniť sa ľudového financovania. Prídu s projektom, kde oddelia klientské rozhranie od časti, ktorá spracováva video. Z prehrávača vznikne akýsi streamovací video server, ktorý pobeží napr. na domácom serveri a bude obsluhovať klientov aj cez web, prípadne v mobilných aplikáciách. Predstavte si Netflix, ktorý beží z vášho počítača. Vy si vyberiete v mobile váš obľúbený seriál, ktorý máte niekde uložený, a ten sa vám začne prehrávať.
 
+Ako portál ľudového financovania si vyberú [Kickstarter][kickstarter]. Dĺžku kampane určia na dva mesiace a nastavia flexibilný cieľ, že potrebujú vyzbierať aspoň 100 000 dolárov, aby sa projekt mohol realizovať. Kampaň je úspešná už po mesiaci, pričom peniaze stále pribúdajú. Po skončení kampane má VideoGem na konte 250 000 dolárov a pustí sa do realizácie už sľúbeného projektu, ktorý realizuje v priebehu jedného roka.
+
+## 6. Komerčná zákaznícka podpora
+Tento video streamovací server si všimne sieť predajní Tesco, ktorá potrebuje zabezpečiť systém na efektívnu distribúciu reklamy do video stien na všetkých ich predajniach. Tesco nemá problém s peniazmi, ale chce mať zabezpečenú podporu, aby v prípade problémov boli nedostatky rýchlo odstránené. Tesco neváha kontaktovať VideoGem, ktorí neváhajú prijať ponuku pre zabezpečenie podpory k produktu. Tento softvér aktuálne používajú všetky predajne Tesco a tiež milióny používateľov po celom svete...
+
+Na príklade Roberta som sa pokúsil poukázať, že aj keď je vaša práca celá zverejnená, môžete na tom zarobiť, ak ste dostatočne kreatívni. Open source je váš pomocník, nie nepriateľ. Verím, že vás tento príbeh inšpiroval dozvedieť sa o open source o niečo viac.
+
+Ďakujem za pozornosť.
 [//]: # (Used references)
 [open-source-business-models]: https://en.wikipedia.org/wiki/Business_models_for_open-source_software
-[red-hat]: https://www.redhat.com/en/global/czech-republic
-[fedora]: https://getfedora.org/sk/
-[rhel]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
-[saas]: https://sk.wikipedia.org/wiki/Software_as_a_service
-[gitlab]: https://about.gitlab.com/pricing/
-[kickstarter]: https://www.kickstarter.com/
-[indiegogo]: https://www.indiegogo.com/
-[patreon]: https://www.patreon.com/
-[krita]: https://krita.org/en/
-[bounty-driven-development]: https://en.wikipedia.org/wiki/Open-source_bounty
+[octocat]: http://cameronmcefee.com/work/the-octocat/
 [gsoc]: https://summerofcode.withgoogle.com/
+[bounty-driven-development]: https://en.wikipedia.org/wiki/Open-source_bounty
+[kickstarter]: https://www.kickstarter.com/
