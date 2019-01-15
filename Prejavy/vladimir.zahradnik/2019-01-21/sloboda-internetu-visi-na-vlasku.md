@@ -8,9 +8,13 @@ categories: toastmasters internet censorship savetheinternet
 ---
 
 # Sloboda internetu visí na vlásku
-Internet sa stal za uplynulých 30 rokov takmer neoddeliteľnou súčasťou našich životov. Nástup Internetu odštartoval revolúciu, ktorá trvá dodnes. Knihy si kupujeme elektronicky, hudbu počúvame online, po filmy už nechodíme do videopožičovní. S tým, ako sa Internet dostal medzi masy, zároveň stúpol aj záujem rôznych subjektov na jeho reguláciu. V roku 2019 stojíme na križovatke, ktorá určí, akou cestou sa bude budúcnosť Internetu uberať.
+Internet sa stal za uplynulých 30 rokov takmer neoddeliteľnou súčasťou našich životov. Nástup Internetu odštartoval revolúciu, ktorá trvá dodnes. Knihy si kupujeme elektronicky, hudbu počúvame online, po filmy už nechodíme do videopožičovní. S tým, ako sa Internet dostal medzi masy, zároveň stúpol aj záujem rôznych subjektov na jeho reguláciu. V roku 2019 stojíme na križovatke, ktorá určí, akou cestou sa bude Internet uberať.
 
-Možno si niektorí pamätáte epizódu z britského komediálneho seriálu The IT Crowd, The Speech. Jen Barber tam mala prejav, v ktorom predstavila Internet ako malú čiernu krabičku s blikajúcou červenou LEDkou. V skutočnosti je Internet pomenovanie pre systém vzájomne prepojených počítačových sietí. Technológia, na ktorej sú tieto siete postavené vznikla v rámci projektu ARPANET. K bežným ľuďom sa Internet začal dostávať začiatkom deväťdesiatych rokov 20. storočia. Čiastočne tomu pomohol aj Windows 95, ktorý obsahoval webový prehliadač Internet Explorer. Symbol modrého "É" je dodnes pre mnohých symbolom Internetu. Pre zaujímavosť, okolo roku 2000 bolo celosvetovo na Internete pripojených 361 miliónov ľudí, v roku 2010 necelé dve miliardy a dnes sú pripojené na Internet viac ako [4 miliardy][internet-user-stats] ľudí, čo predstavuje 55 percent svetovej populácie.
+Slovom Internet nazývame systém vzájomne prepojených počítačových sietí. Predchodcom bola sieť ARPANET, ktorá prepájala akademické a vojenské siete. Ľudia, ktorí ju postavili, zároveň navrhli mnohé protokoly, ktoré súčasný Internet používa. K bežným ľuďom sa Internet začal dostávať začiatkom deväťdesiatych rokov 20. storočia. Pre zaujímavosť, podľa stránky [Internet World Stats][internet-world-stats] bolo okolo roku 2000 celosvetovo na Internete pripojených 361 miliónov ľudí, v roku 2010 necelé dve miliardy a dnes sú pripojené na Internet viac ako [4 miliardy][internet-user-stats] ľudí, čo predstavuje 55 percent svetovej populácie.
+
+Internet ako celok nevlastní žiadna konkrétna organizácia. Na druhej strane, Internet pozostáva z mnohých častí, kde každú vlastní jednotlivec, organizácia alebo viacero organizácií. Napríklad taký transatlantický podmorský optický kábel TAT-14 vlastní podľa stránok [konzorcia][tat-14-sprint] 30 telekomunikačných operátorov. Politici v jednotlivých krajinách si veľmi dobre uvedomujú, že Internet sa stal dôležitým zdrojom informácií pre občanov. Nemajú síce právomoc regulovať Internet na globálnej úrovni, regulujú ho preto na úrovni štátu. Zákony prijaté na úrovni štátu však ovplyvňujú Internet globálne. Vysvetlím vám to na dvoch veľmi aktuálnych príkladoch.
+
+
 
 V časoch, keď používala Internet len zanedbateľná časť populácie, nebol jeho obsah nijako regulovaný. To sa prirodzene začína meniť akonáhle začína používať Internet kritická masa ľudí. Politici si začínajú uvedomovať, že pre občanov sa Internet stáva dôležitým zdrojom informácií, firmy poskytujúce obsah sa prirodzene snažia obmedzovať konkurenciu a poskytovatelia internetových služieb pre domácnosti majú tendenciu limitovať služby konkurencie v ich sieti, čím narušujú sieťovú neutralitu. Na hĺbkovú analýzu problémov narušujúcich otvorenosť Internetu žiaľ nie je priestor. Namiesto toho som sa rozhodol zamerať na dve legislatívy, ktoré napriek tomu, že majú lokálnu pôsobnosť, ovplyvnia Internet globálne.
 
@@ -19,11 +23,9 @@ Len pred pár dňami, 10. 1. 2019 prijal austrálsky parlament kontroverzný zá
 
 
 [//]: # (Used references)
-[internet-user-stats]: https://internetworldstats.com/stats.htm
-[video-traffic]: https://tubularinsights.com/2019-internet-video-traffic/
-[youtube-stats]: https://expandedramblings.com/index.php/youtube-statistics/
-[australia-law]: https://www.wired.com/story/australia-encryption-law-global-impact/
-https://arstechnica.com/tech-policy/2018/12/australia-passes-new-law-to-thwart-strong-encryption/
+[internet-world-stats]: https://internetworldstats.com/stats.htm
+[tat-14-sprint]: https://www.tat-14.com/tat14/gclist.jsp
+[australia-law]: https://arstechnica.com/tech-policy/2018/12/australia-passes-new-law-to-thwart-strong-encryption/
 
 TODO: EU linktax uploadfilters savetheinternet
 
