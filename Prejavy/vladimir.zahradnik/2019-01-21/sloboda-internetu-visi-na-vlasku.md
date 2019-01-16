@@ -20,7 +20,7 @@ Presuňme sa do Európy. V týchto dňoch sa podľa [webstránky][eu-copyright] 
 
 Článok 13, prezývaný tiež Upload Filters, zavádza povinnosť platformy poskytujúcej obsah, ako napr. YouTube, kontrolovať nahrávaný obsah a pokiaľ porušuje autorské práva vlastníka, toho proaktívne kontaktovať. Pri množstve publikovaného obsahu je nemožné robiť to ručne. Preto je nutné investovať do filtrov na báze strojového učenia. Tie sa pri rozhodovaní môžu mýliť a aj sa to bežne deje. Platformy ako YouTube nebudú riskovať žaloby a radšej obmedzia všetok obsah až na zopár dôveryhodných partnerov. Nezávislí tvorcovia v Európe skončia. Ťažké to budú mať aj malé startupy, ktoré nemajú dostatok financií na vybudovanie systému na filtrovanie obsahu. Platformy ako Reddit či Twitter budú musieť byť zásadne prepracované alebo sa tiež môže stať, že odídu z európskeho trhu.
 
-Toto boli príklady, ktoré aj keď majú lokálnu pôsobnosť, ovplyvňujú Internet globálne. Vrátim sa k úvodu. Stojíme na križovatke. Kde bude Internet o desať rokov? Ozveme sa alebo budeme ticho? Chceme obsah aj zverejňovať alebo nám stačí ho pasívne prijímať? Internet tu je s nami približne 30 rokov. Zdá sa to veľa, ale sme stále len na začiatku. Teraz sa formuje, akú podobu bude mať.
+Toto boli príklady, ktoré aj keď majú lokálnu pôsobnosť, ovplyvňujú Internet globálne. Vrátim sa k úvodu. Stojíme na križovatke. Kde bude Internet o desať rokov? Ozveme sa alebo budeme ticho? Chceme obsah aj tvoriť alebo nám stačí ho pasívne prijímať? Internet je tu s nami približne 30 rokov. Zdá sa to veľa, ale sme stále len na začiatku. Teraz sa formuje, akú podobu bude mať.
 
 [//]: # (Used references)
 [internet-world-stats]: https://internetworldstats.com/stats.htm
