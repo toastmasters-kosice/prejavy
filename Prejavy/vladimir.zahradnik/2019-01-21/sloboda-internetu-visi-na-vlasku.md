@@ -3,7 +3,7 @@ title: "Sloboda internetu visí na vlásku"
 pathway: "Strategic Relationships, Level 1"
 length: "5 to 7 minutes"
 date: 2019-01-21 18:30:00 +0100
-video: N/A
+video: https://www.youtube.com/watch?v=9vo3yz3IQE0
 categories: toastmasters internet censorship savetheinternet
 ---
 
