@@ -1,7 +1,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)][cc-by-nc-sa]
 
 # Toastmasters Košice [![alt_text][fb_icon]][fb_page]
-Vybrané prejavy klubu [Toastmasters Košice][tm-kosice-website], užitočné odkazy a dokumenty.
+Vybrané prejavy členov klubu [Toastmasters Košice][tm-kosice-website].
 
 ## Licencia
 [![License: CC BY-NC-SA 4.0][cc-by-nc-sa-icon]][cc-by-nc-sa]
