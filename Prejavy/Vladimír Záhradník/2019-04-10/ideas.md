@@ -37,13 +37,17 @@ https://itsfoss.com/best-gif-recorder-linux/
 spencer.bliven.us/index.php/2012/01/18/arduino-ide-keywords/ https://github.com/arduino-libraries/Servo/blob/master/keywords.txt
 - [ ] Chýba code completion, náhľad definície funkcie, príp. popisu funkcie
 - [ ] Knižnice sa inštalujú do spoločného adresára (Arduino/libraries) a nie je možné používať rôzne verzie knižnice pre rôzne projekty
+- [ ] Nepodporuje hardvérový debugger
 
 ## PlatformIO
-- PlatformIO Core napísaný v Pythone, rozšírenia pre VSCode v JavaScripte?
+- PlatformIO Core napísaný v Pythone, rozšírenia pre VSCode a Atom v JavaScripte / CoffeeScripte
 - Základ tvorí PlatformIO Core (CLI) a pluginy/rozšírenia do viacerých IDE (v podstate wrappujú PIO Core do GUI). Ako hlavné sú podporované Visual Studio Code a Atom (VSCode podporuje viac funkcií).
-- [] PlatformIO Core je kompatibilné s Pythonom 2.7. Python 3 nie je zatiaľ úplne podporovaný, ale na podpore sa pracuje
 - [x] Apache 2.0 licencia - možnosť použiť PlatformIO v komerčných aj nekomerčných projektoch
 - [x] PlatformIO Core je multiplatformové a bez problémov beží aj na RPi
 - [x] Dokumentácia na oficiálnych stránkach
 - [x] IDE je oddelené od hlavnej funkcionality, ktorá rieši kompiláciu, flashovanie, atď.
 - [x] Možnosť ovládať celé PlatformIO len cez CLI
+- [x] Podpora pre unit testy spúšťané na reálnom hardvéri
+- [x] PIO Unified Debugger aj pre Arduino (PIO Plus)
+- [x] PlatformIO Registry - databáza knižníc + Git, Hg, SVN závislosti. Registráciu knižnice viem spraviť cez CLI alebo cez komunitné fórum.
+- [ ] PlatformIO Core je kompatibilné s Pythonom 2.7. Python 3 nie je zatiaľ úplne podporovaný, ale na podpore sa pracuje
