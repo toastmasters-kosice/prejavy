@@ -1,0 +1,3 @@
+# PlatformIO: Namakané Arduino IDE
+
+Ahojte, v dnešnej prednáške vám predstavím PlatformIO. Vývojové prostredie, ktoré vám zjednoduší vývoj pre Arduino. Jeho hlavnou výhodou je však to, že Arduino je len jedným z frameworkov a nič vám nebráni vyvíjať v ňom softvér pre Raspberry Pi či Espressif. Jedno prostredie vládne všetkým! PlatformIO je v prvom rade nástroj. Je na vás, či ho použijete. V nasledujúcich minútach vám spomeniem moje dôvody, **prečo** tento nástroj používať. Konečné rozhodnutie však bude na vás.
