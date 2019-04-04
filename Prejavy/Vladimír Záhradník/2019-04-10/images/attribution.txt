@@ -1,0 +1,49 @@
+PlatformIO images, courtesy of the author. Licensed under Apache 2.0.
+https://github.com/platformio/platformio-web/tree/develop/app/images
+
+Arduino Logo, Wikipedia Commons:
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png
+
+Arduino LED Detail by Daniel Lombraña González:
+https://flic.kr/p/mxZDuc
+
+Arduino atmega2560 microchip board by pklaschka:
+https://pixabay.com/photos/arduino-atmega2560-microchip-board-2233042/
+
+Image by Daan Lenaerts:
+https://pixabay.com/photos/arduino-electronics-1128227/
+
+Image by federicoag:
+https://pixabay.com/photos/arduino-diy-microcontroller-1050655/
+
+Image by digitalskennedy:
+https://pixabay.com/photos/solder-station-arduino-kit-1548360/
+
+Image by seven11nash:
+https://pixabay.com/photos/technology-arduino-breadboard-leds-1784558/
+
+https://pixabay.com/photos/processor-electronics-chip-3079887/
+https://pixabay.com/photos/board-printed-circuit-board-computer-1429589/
+https://pixabay.com/photos/transistors-transistor-electronic-218835/
+https://pixabay.com/photos/arduino-plate-electronics-engine-2262183/
+https://pixabay.com/photos/printed-circuit-board-board-1539108/
+https://pixabay.com/photos/capacitor-circuit-board-electronics-647482/
+https://pixabay.com/photos/technical-circuit-board-electronics-647487/
+https://pixabay.com/photos/seven-segment-electronics-breadboard-957235/
+https://pixabay.com/photos/integrated-circuit-computer-arduino-441294/
+https://pixabay.com/photos/adafruit-controller-arduino-engines-2286778/
+https://pixabay.com/photos/current-inductance-circuit-pcb-3491207/
+https://pixabay.com/photos/circuit-circuit-board-resistor-1443250/
+https://pixabay.com/photos/technology-computer-industry-energy-3209268/
+https://pixabay.com/photos/raspberry-pi-technology-tech-3676379/
+https://pixabay.com/photos/electronics-computer-circuits-3493726/
+https://pixabay.com/photos/gpu-motherboard-board-micro-pc-1137504/
+https://pixabay.com/photos/raspberry-pi-raspi-electronics-3640738/
+https://pixabay.com/photos/coding-programming-css-1853305/
+https://pixabay.com/photos/electricity-electronics-computer-1288717/
+https://pixabay.com/photos/circuit-board-electronic-circuit-973311/
+https://pixabay.com/photos/capacitor-components-1835729/
+https://pixabay.com/photos/raspberry-fruit-red-large-3d-1546756/
+https://pixabay.com/photos/raspberry-pi-pi-electronics-1719220/
+https://pixabay.com/photos/raspberry-pi-computer-linux-1383832/
+https://pixabay.com/photos/raspberry-pi-zero-linux-board-1904924/
