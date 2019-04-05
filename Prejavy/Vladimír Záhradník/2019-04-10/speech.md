@@ -22,3 +22,5 @@ Napísať softvér je ťažké. Pritom cieľ je jasný. Kvalitný kód a [spokoj
 [platformio]: https://platformio.org/
 [vscode-atom-comparison]: https://platformio.org/#pioide-comparison
 [modern-sw-development]: https://www.atlassian.com/blog/software-teams/modern-software-development-trends
+[pio-unit-testing]: https://tinkerman.cat/automated-unit-testing-metal/?utm_source=platformio
+[pio-unit-test-example]: https://github.com/platformio/platformio-examples/tree/develop/unit-testing/calculator

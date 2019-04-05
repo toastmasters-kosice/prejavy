@@ -83,6 +83,7 @@
 12. Testovanie
   * Prečo je dôležité testovať - kvalitný kód, rýchle aktualizácie, spokojný zákazník
   * Manuálne testovanie vs. automatizované testy
+  * Dobre napísané unit testy testujú očakávané správanie a zabraňujú regresiám
   * PlatformIO testovací framework
   * Alternatívne testovacie prostredie ArduinoUnit a podpora v PlatformIO
 
