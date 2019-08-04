@@ -38,4 +38,3 @@ Minimalizujte rozptýlenia. Častokrát počúvam od ľudí, že nemajú čas a 
 Ak aj úspech dosiahnete. Uvedomte si, že úspech neznamená šťastie. Môže vám k šťastiu dopomôcť, ale aj nemusí. Preto sa dobre rozhodnite, ako chcete, aby vyzeral váš život. Máte len jeden.
 
 [//]: # (Used references)
-[brain-decisions]: https://bgr.com/2019/03/06/brain-decision-study-free-will/
