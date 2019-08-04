@@ -17,7 +17,7 @@ categories: toastmasters motivation leadership
 
 - Úspech != šťastie
 
-Čo je to úspech? Niektorí si pod úspechom predstavia bohatstvo, iní moc. Ďalší len chcú zanechať na svete pozitívny dopad. Všetky tieto definície úspechu sú platné. V skutočnosti totiž úspech znamená pre rôznych ľudí rôzne veci. Nezáleží na tom, čo je úspechom pre vás. Je takmer isté, že k vám nepríde len tak sám od seba.
+Čo je to úspech? Niektorí si pod úspechom predstavia bohatstvo, iní moc. Ďalší chcú len zanechať na svete pozitívny dopad. Všetky tieto definície úspechu sú platné. V skutočnosti totiž úspech znamená pre rôznych ľudí rôzne veci. Nezáleží na tom, čo je úspechom pre vás. Je takmer isté, že k vám nepríde len tak sám od seba.
 
 Bolo napísaných množstvo kníh o tom, ako byť úspešným. Keďže je úspech vysoko individuálna vec, rady v týchto knihách vo vašom prípade nemusia vôbec pomôcť. Pozrel som sa na rady od ľudí, ktorí dosiahli úspech v rôznych oblastiach a hľadal som, čo majú títo ľudia spoločné. A predstavte si, isté spoločné znaky som tam našiel. Pozrime sa na príbeh muža, ktorý založil Toastmasters.
 
