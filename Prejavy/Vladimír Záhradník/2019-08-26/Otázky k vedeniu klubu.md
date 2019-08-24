@@ -32,3 +32,6 @@ Otázky pre školiteľa vedenia klubu, aby sme lepšie pochopili, ako isté situ
 - Oznamujete na stretnutiach, ak niekto dosiahol v Pathways nejaký míľnik? Dávate aj diplomy?
 - Propagujete na stretnutiach vo svojich prejavoch Pathways? Ako?
 - Ktoré roly sú nevýhnutné na stretnutie? Je hodnotiteľ improvizácií nutná alebo voliteľná rola? Riešiť jeho absenciu panelovým hodnotením?
+- Máte na vašich stretnutiach uvítacie ceremónie pre nových členov príp. ceremónie pre uvedenie nového vedenia klubu?
+- Ako striktne dodržiavate časový harmonogram stretnutia?
+- Môže mať súhrnný hodnotiteľ aj inú rolu, ak nie je možné obsadiť roly ďalšími členmi?
