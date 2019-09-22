@@ -1,5 +1,5 @@
 # Sny a ambície
-Oprah Winfrey povedala: "Najväčšie dobrodružstvo, ktoré môžete zažiť, je žiť život vašich snov". Vaše sny sa nesplnia samé, musíte preto aj niečo urobiť. Ale ako sa vraví, odvážnym šťastie praje.
+"Najväčšie dobrodružstvo, ktoré môžete zažiť, je žiť život vašich snov". Vaše sny sa nesplnia samé, musíte preto aj niečo urobiť. Ale ako sa vraví, odvážnym šťastie praje.
 
 Dobrý večer, vážení Toastmastri a milí hostia. Vitajte na 158. stretnutí klubu Toastmasters Košice. Dnes na tému Sny a ambície.
 
@@ -7,6 +7,8 @@ Aj keď sa vám to nemusí zdať, žijeme v najlepších časoch, aké tu kedy b
 
 Otázka na vás. O čom snívate? Čo by ste chceli dosiahnuť vo svojom živote?
 
-Vyštudoval som technický odbor, no každým dňom si uvedomujem viac a viac, aké je dôležité vedieť prezentovať sám seba. Aj k tomu vám dopomôže Toastmasters. Keď som sem prišiel asi pred rokom a pol, na pódiu som sa vôbec necítil pohodlne a bol som nervózny. Rozhodne viac ako teraz. Nevedel som ani ako držať mikrofón. No verte mi. Ak budete nejakú činnosť opakovať, zlepšíte sa v nej. Schopnosť verejne vyjadriť svoj názor stúpa na dôležitosti. Ak neviete ako začať, klub vám v tom pomôže. Presne kvôli tomu založil Ralph Smedley pred asi sto rokmi prvý takýto klub.
+Je krásne snívať. Ale aby ste sny uskutočnili, potrebujete mať ambície. Askúsi silnú vôľu, že dosiahnete svoj cieľ. Každým dňom si uvedomujem viac a viac, aké je dôležité vedieť prezentovať sám seba. A patrí tam aj rečnenie na verejnosti. A v tom vám pomôže Toastmasters. V klube som približne rok a pol. Čo som sa naučil? V prvom rade mi už nerobí taký problém postaviť sa pred ľudí. Iste, trému mám stále. Ale teraz ma už neobmedzuje v mojej schopnosti vyjadriť sa. Zároveň sa istejšie pohybujem po pódiu, aj keď k dokonalosti to má stále ďaleko. No čo považujem za najdôležitejšie je to, že sústavnou prípravou prejavov sa učíte lepšie vyjadriť to, čo máte na mysli. Povedať to, čo si myslíte tak, aby to bolo zrozumiteľné aj ostatným. Verte mi, nie je to také jednoduché. No s každým jedným prejavom v tom budete lepší.
+
+S odstupom času už môžeme vidieť pridanú hodnotu klubu, ktorý funguje viac ako 5 rokov. Jeden z bývalých členov ma školil, ako napísať efektívny podnikateľský plán. Ďalší je úspešný blogger a rečník v oblasti podnikania a financií. A napokon člen JAnik úspešne rozbieha svoju kariéru motivačného rečníka a robí v Košiciach prednášky o svojich cestovateľských zážitkoch. Verím, že ďalšie úspešné príbehy budú pribúdať.
 
 A aká bude vaša ďalšia cesta? To už nechám na vás. Možno zistíte, že rečnenie vás baví a budete sa aktívne zapájať do klubových súťaží. A možno bude Toastmasters len prvým krokom k tomu, aby ste sa živili vašimi snami. Odvážnym šťastie praje.
