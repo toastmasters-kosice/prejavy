@@ -5,6 +5,7 @@ Tento dokument obsahuje postrehy ostatných členov klubu k prejavu [Sila pódi�
 Prejav má mať dĺžku 5-7 minút.
 
 ### Klady:
+- ✅ Výber témy, prejav bol veľmi živý. Bolo cítiť, že oblasť, o ktorej hovorím, ma baví a nadchýna
 - ✅ Opisy
 - ✅ Využíval som celú časť pódia, pohyb po javisku a gestikulácia
 - ✅ Pôsobil som uvoľnene, prirodzene
@@ -46,3 +47,4 @@ Prejav má mať dĺžku 5-7 minút.
 - Očný kontakt - rozvrhnúť si divákov na 4 časti a v každej si vybrať niekoho, na koho sa budem pozerať
 - Povedať zábavný zážitok
 - Menej pohybu po pódiu. Až keď nadobudnem väčšiu sebaistotu, mal by som to skúsiť opäť... Zvážim.
+- Preniesť uvoľnenie z prejavu aj do predsedania a improvizácií.
