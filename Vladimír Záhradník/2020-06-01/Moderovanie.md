@@ -7,4 +7,4 @@ Naproti tomu, bohatý otec mal ukončenú iba základnú školu. Bol však presn
 
 Kiyosaki sa snaží v knihe zdôrazniť, aká dôležitá je finančná gramotnosť. Ja však chcem poukázať na niečo iné - aký veľký dopad na vás môže mať dobrý mentor. Zabudnite na chvíľu na to, že Robert dostával od bohatého otca finančné rady. Rovnako mohol dostávať rady ohľadom osobnostného rastu. Mať dobrého mentora nie je samozrejmosť. Avšak ak hľadáte múdro a trpezlivo, mentor môže obrátiť váš život o 180 stupňov. Mentor za vami málokedy príde sám. Naopak, to vy musíte vyvinúť úsilie nájsť ho a osloviť ho.
 
-V mojom prípade svojho mentora stále hľadám. A neobmedzujem sa len na jedného. Myslím si, že ak sa obklopím chytrými ľuďmi, porastiem aj ja. Verím, že som vám zanechal chrobáka v hlave a že sa nad vlastným mentorom začnete zamýšľať. Môžete od neho veľa získať a on od vás tiež.
+V mojom prípade svojho mentora stále hľadám. A neobmedzujem sa len na jedného. Myslím si, že ak sa obklopím inteligentnými ľuďmi, porastiem aj ja. Verím, že som vám zanechal chrobáka v hlave a že sa nad vlastným mentorom začnete zamýšľať. Môžete od neho veľa získať a on od vás tiež.
