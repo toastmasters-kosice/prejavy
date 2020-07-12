@@ -3,7 +3,7 @@
 ## Téma stretnutia: Výzvy
 
 ## Témy improvizácií
-- Aký majú výzvy zmysel?
+- Čo mi môže výzva priniesť?
 - Výzva, ktorú by som neprijal(a)
 - Ako prekonávaš svoj strach?
 - Novoročné predsavzatia
