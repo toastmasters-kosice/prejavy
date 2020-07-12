@@ -10,10 +10,10 @@
 - Výzva, ktorá mi zmenila život
 - Kde je výzva, tam je aj príležitosť čeliť jej
 - Je výzva bez prekážok výzvou?
-- Nesplniteľná výzva
 
 ## Témy improvizácií - kľúčové slová
 - Nedokončená výzva
+- Nesplniteľná výzva
 - Druhá šanca
 - Uchopená príležitosť
 - Nezdolateľné prekážky
