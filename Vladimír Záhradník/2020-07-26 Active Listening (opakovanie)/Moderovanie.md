@@ -3,7 +3,7 @@
 ## Téma stretnutia: Čaro nepoznaného
 Noví ľudia, nové miesta, nové zážitky... Ak Ťa zaujíma sebarozvoj a chceš na seba pracovať, príď objaviť čaro nepoznaného na stretnutí nášho klubu. Sme rečnícky klub, ktorý umožňuje členom naučiť sa rečniť na verejnosti, a to hlavne vďaka spätnej väzbe a za pomoci mentora.
 
-- 184. stretnutie Toastmasters
+- 184-té stretnutie Toastmasters
 - Do klubu som prišiel v máji 2018, mali voľby
 - Členom som sa stal do pár dní od mojej návštevy
 
