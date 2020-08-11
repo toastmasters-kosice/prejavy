@@ -1,4 +1,16 @@
-When developing your networking plans, consider what you want to accomplish. Aside from the connections you want to make, you also need to make note of the talents, strengths, skill sets, and connections you can offer to others. Effective networking requires preparation and practice.
+# ELEVATOR PITCH
+Čo chcem, aby ostatní vedeli o mojich záujmoch, vedomostiach a všeobecnej hodnote? Ako to môžem stručne predstaviť?
 
-An elevator pitch is an exceptionally brief, unassuming summary that is meant to be delivered in the time it takes to ride an elevator, or less than one minute. Introduce yourself in an upbeat manner.
+# CIELE
+Aké sú moje sieťové ciele pre túto udalosť?
 
+# KONTAKTY
+Aké zručnosti a vedomosti sa snažím rozvíjať? S kým sa chcem stretnúť?
+
+# HODNOTA
+Aké zručnosti alebo znalosti môžem ponúknuť ľuďom na tomto podujatí?
+
+# MERANIE USPECHU
+Pred: Ako zmerím svoj osobný úspech na sieťovej udalosti? (Možné opatrenia môžu zahŕňať nové prepojenia na sociálne médiá alebo obedové plány s novými kontaktmi.)
+
+Po: Koľko nových kontaktov som získal? Splnil som svoje ciele pre túto sieťovú udalosť?
