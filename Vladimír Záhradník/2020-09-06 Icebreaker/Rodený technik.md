@@ -1,7 +1,7 @@
 # Rodený technik
 Mottom Toastmasters je Miesto, kde sa tvoria lídri. Práve tu si uvedomujem, že existujú ľudia, ktorí sa s nejakým talentom narodia. Dokonca majú k nemu vášeň. A potom je druhá skupina, ktorá musí pracovať na tom, aby sa nejakú zručnosť naučila. Ak investujete veľa hodín práce, dokážete preskočiť ľudí s talentom. Ale nikdy nepreskočíte ľudí s talentom, ktorých práca navyše aj baví. Ja mám od narodenia talent k technike. Už ako trojročný som sa motal okolo stavby nášho domu, sledoval som ako sa krúti miešačka a pamätám si, ako som sa snažil malými rukami dvihnúť vedro plné malty.
 
-Táto zvedavosť ma neopustila ani v ďalších rokoch. Ako malý som veľa času trávil v dielni so svojím dedom. Pamätám si, ako sme podľa nejakej schémy robili anténu na príjem druhého programu Slovenskej televízie. Ako päťročný som sa nehral s hračkami. Hral som sa na opravára hračiek. Vytriedil som si hračky, ktoré už potrebovali opraviť a v mojej izbe som na nich pomaly pracoval.
+Táto zvedavosť ma neopustila ani v ďalších rokoch. Ako malý som veľa času trávil v dielni so svojím dedom. Pamätám si, ako sme podľa nejakej schémy robili anténu na príjem druhého programu Slovenskej televízie. Ako šesťročný som sa nehral s hračkami. Hral som sa na opravára hračiek. Vytriedil som si hračky, ktoré už potrebovali opraviť a v mojej izbe som na nich pomaly pracoval.
 
 Neskôr mi rodičia kupili stavebnicu Merkúr a ja som si začal stavať modely lietadiel, autíčok a vrtuľníkov. Mal som k ním aj taký motorček. Ten ťahal za gumičku, ktorá otáčala vrtuľami. Vždy, keď som ho zapol, zarušil som rodičom televízor.
 
