@@ -18,6 +18,14 @@ To čo platí v cyklistike, platí aj inde. Pod tým nekonečným kopcom si pred
 
 Nie je to však nemožné. Práve o znovunájdení motivácie bude naše dnešné stretnutie, ktorým vás dnes bude sprevádzať moderátor Vlado Kasarda. Privítajte ho s veľkým potleskom.
 
+### Osnova
+- Prekážky na Tour de France
+- Župčiansky kopec
+- Mentálna kríza
+- Rozdelenie kopca na krátke úseky
+- Vrchol kopca je dlhodobý cieľ, úseky sú krátkodobé ciele
+- O znovunájdení motivácie bude dnešné stretnutie
+
 ## Témy improvizácií
 
 - Ako sa ti darí napĺňať tvoje ciele?
