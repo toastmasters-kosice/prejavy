@@ -24,11 +24,12 @@
 - **KAMERA**: Spýtaj sa, kto nechce byť nahrávaný. Vysvetli výhody videozáznamu
 
 ## Improvizácie
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
+- Pytagoras a Aristoteles sa mýlia, Zem je plochá
+- V minulom živote som slúžil(a) po boku Napoleona
+- Minulosť sa neopakuje, ale rýmuje
+- Život je ako bonboniéra. Nikdy nevieš, čo ochutnáš
+- Urazil(a) som prezidenta Nigérie. Je z toho medzinárodný škandál
+- Umelá inteligencia si vymyslela vlastný jazyk. Čo príde ďalej?
 
 ## Ice Breaker
 - 2-3 minúty, možných extra 30 sekúnd
