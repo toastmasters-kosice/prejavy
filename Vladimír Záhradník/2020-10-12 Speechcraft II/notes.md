@@ -5,6 +5,15 @@
 - Vzdelávací prejav o uvádzaní rečníka: Kornélia Hudáková
 
 ## Otvorenie
+- V týchto dňoch som sa zapojil do intenzívneho tréningového programu
+- Pozoroval som, ako rečnia jedni z najlepších marketérov na svete
+- Ich profesia ich naučila, ako pomocou rečnenia a vystupovania vysielať emócie stovkám a tisícom ľudí
+- Príbehy sú veľmi silný nástroj, ako sa spojiť s ostatnými
+- Netreba sa báť poodhaliť aj niečo zo svojej zraniteľnosti. Budeme pôsobiť ľudsky
+- Naučiť sa takto vystupovať trvá možno aj roky, ale najdôležitejšie je začať. A vy ste už na túto cestu vykročili. Je na vás, kde sa zastavíte
+- Ak zvládnete toto, nikdy nebudete mať núdzu o živobytie
+
+- Minule sme zažili príjemnú atmosféru, pokúsim sa na ňu nadviazať
 - Predstavenie misie TM – nezisková organizácia, vytvára podporne prostredie pre rozvoj rečníckych a vodcovských zručnosti
 - Založená v roku 1924
 – Svetovo 364 000 členov, 16 000+ klubov, 145 krajín sveta
@@ -33,6 +42,20 @@
 
 ## Ice Breaker
 - 2-3 minúty, možných extra 30 sekúnd
+
+### Uvedenie Jarky
+- Aktívna a nebála sa výzvy
+- Mala až dvakrát mentoring
+- Počúvala pripomienky a prejav prerobila. Nely ju naviedla, aby povedala niečo zo seba
+- Počul som, že to má byť veľmi pekný prejav a už teraz sa naňho teším
+
+### Hodnotenie prejavu
+- Aké silné stránky už rečník má?
+- Spoznalo publikum rečníka? Ako?
+- Ako dobre bol prejav pripravený?
+- Ako čisto a zrozumiteľne rečník rozprával?
+- Mal prejav jednoznačný úvod, jadro a záver?
+- Daj jedno-dve vylepšenia, ktoré rečníka posunú výrazne vpred
 
 ## Vzdelávací prejav - Organizácia prejavu
 - Aby ste odkomunikovali správu, musí byť zrozumiteľná
