@@ -1,4 +1,6 @@
 # Organizácia prejavu
+Napísanie prejavu nie je raketová veda. Bystrí ľudia už za nás zistili, čo funguje a čo nie. Dnes sa naučíte ako ten váš prejav výrazne vylepšiť pomocou zopár jednoduchých pravidiel. Stačí, že ma budete pozorne počúvať.
+
 Minulý rok som bol na konferencii v Prahe s názvom LinuxDays. Bol som tam preto, že ma zaujímala tematika - Linux a tak. No zároveň som chcel vidieť úroveň rečníkov. Zvažoval som, že sa o rok prihlásim aj ja. No nestalo sa tak. Tento rok sa konferencia konala v obmedzenom režime online. Ale iné som chcel povedať. Videl som obrovské rozdiely medzi špičkovými rečníkmi a tými, ktorí si nejako dali dokopy zopár slajdov. O niekoľko tried medzi nimi vyčnieval Michal Špaček. Predstavte si tú najväčšiu prenáškovú sálu na univerzite. Bola úplne plná. A to až tak, že sme viacerí sedeli na podlahe alebo sa opierali o múry. V sále bolo počas celého jeho prednášky ohromné ticho. Ľudia chceli počuť každé jedno slovo. A keď povedal nejakú vtipnú príhodu, všetci sme sa tam rehotali.
 
 Vypracovať sa v rečnení na Michalovu úroveň nie je jednoduché. Napriek tomu vás viem nasmerovať a ukázať vám, čo funguje.
