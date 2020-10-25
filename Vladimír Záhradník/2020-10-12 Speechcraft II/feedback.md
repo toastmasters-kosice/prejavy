@@ -8,7 +8,7 @@
 - ❌ Chýbali vizuálne pomôcky, nevyužitá tabuľa. Mapu som mohol názorne nakresliť
 - ❌ Dodatky ako Mikrofón je môj... zbytočne strácame čas, aj keď nie veľa
 
-## Poznámky on Nely Hudákovej
+## Poznámky on Nely Hudákovej k vzdelávačke
 - "Stačí, že ma budete pozorne počúvať."
 - Odporúčam vynechať – obraciaš pozornosť na seba
 - S názvom LinuxDays (odporúčam vynechať celú časť, ktorá nehovorí k podstate), kde som videl obrovské rozdiely.....
@@ -28,3 +28,30 @@
 
 - Technickosť plynie:
 - Prvá poučka, druhá poučka; pre sociálne cítiacich ľudí začať myšlienkovou mapou nie je najšťastnejšie. 
+
+## Poznámky od Nely Hudákovej k moderovaniu
+
+Dva hlavné body: 
+1. Popracuj na premostení, lebo si použil:
+    - "..začnam Jakubom."
+    - "...á teraz prejdeme k Jarke."
+    - (vezmi si príklad z Janky. Pri hodnotení oslovila rečníka menom a ukázala na neho gestom ruky)
+    - " Ideme na to."
+
+2. Nestrhávaj na seba pozornosť/nechváľ sa (počkaj, kým Ťa ocenia iní):
+    - "...budem mať zlatý klinec programu."
+    - "....chcem skúsiť podcasty, ale ja som výnimka."
+
+Ostatné:
+- Doska Ti bránila v gestách a potlesku 
+- Doska vyvolala dojem, že si bol nepripravený, pretože si ju držal, aj keď si uvádzal jednotlivých rečníkov
+- Vzdelávačku pre publikum so sociálnym cítením nezačínaj myšlienkovými mapami (to sa hodí pre publikum s technickým zameraním)
+- Otázky na záver: "....neviem, aký prejav to má byť...." nahraď "Dozviete sa včas." aby si sa vyhol slovesám v zápore
+- "...dovoľte mi uzavrieť bodmi, ktoré chcem, aby ste si zapamätali." Nemáš autoritu na kontrolu, preformuluj to jemnejšie 
+
+Páčilo sa mi: 
++ Odporúčanie samolepiek
++ Čítanie prejavov nahlas
++ Pekný záver vzdelávačky
+
+Dodám, že si na mňa pôsobil uvoľnenejšie v porovnaní s Tvojím posledným prejavom v TM :)
