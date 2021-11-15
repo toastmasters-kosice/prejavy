@@ -1,4 +1,5 @@
 HLAVNA MYSLIENKA: nevadi, ze nieco nevies, dolezite je to, ci sa to chces naucit a potom staci za tym ist a hladat sposoby
+
 UVOD
 neprispievam na FB - nepisem statusy, nepridavam fotky, nekomentujem prispevky inym
 rozhodla som sa stat VPPR - preco? 
