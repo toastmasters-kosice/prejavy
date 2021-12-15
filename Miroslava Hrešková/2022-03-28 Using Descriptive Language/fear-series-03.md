@@ -4,8 +4,7 @@ HLAVNA MYSLIENKA: the fear will never go away as long as I continue to grow. tha
 
 UVOD - the fear will never go away as long as I continue to grow.
 
-
 JADRO
-
+ako strach funguje - preco ho zazivame, aku mal funkciu v minulosti a preco to teraz nie je pre nas take idealne
 
 ZAVER - I no longer have to work so hard on getting rid of the fear
