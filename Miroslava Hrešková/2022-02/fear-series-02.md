@@ -1,26 +1,28 @@
-TRIK ÚZKOSTI
-
-HLAVNA MYSLIENKA: the only way of getting rid of the fear of doing something is to do it
+ (Understanding Vocal Variety)
+	HLAVNA MYSLIENKA: everyone experiences fear whenever on unfamiliar territory
 
 UVOD
-When people experience the fear, they instinctively treat it as a danger.
-A person with Generalized Anxiety Disorder gets tricked into trying to stop the unwanted "what if?" thoughts.
-A person with Social Phobia gets tricked into avoiding the party, or hiding in the corner if he attends.
-A person with a dog phobia gets tricked into avoiding the feelings by avoiding all dogs.
+introvert, mozno perfekcionista, nerad na seba upozornuje, nechce upriamovat na seba pozornost
+I was sure I was the only person out there feeling so inadequate.
+mám netradičné záujmy. ale som v tom sama. nikto ďalší nemá záujem o také veci, alebo ak aj má = tak nemá gule postaviť sa strachu
+tak mám 2 možnosti. buď pôjdem sama alebo budem sedieť doma a trhať si vlasy
+	tanecny kurz - najprv co najdalej dozadu, len aby ma nikto nevidel traposit - teraz vzdy v prvom rade, pretoze inak nevidim na ucitela
+	crossfit - neviem urobit ani 1 klik
+	vecerna skola tvorivej fotografie - nic neviem o umeni. budem vyzerat ako debil. - moje fotky boli vystavene pre verejnost
+	programovacia sutaz - co ak nebudeme vediet nic vymysliet? a nepodari sa nam nic odovzdat? - vyhra 5000 eur
+	vykaslat sa na pracu a ist cestovat - co na to moji rodicia? - splnila som si sen o japonsku
+	recnicky klub - urcite si o mne budu mysliet, co je to za trubku co nevie zo seba vysukat suvislu vetu - dnes pocuvate odomna mnoho suvislych viet
+	zalozit firmu na hry aj ked ich este neviem robit
 
 JADRO
-the anxiety trick
-They took these protective steps, and there was no catastrophe. They tend to believe that these steps "saved" them from a catastrophe. This thought makes them worry more about "the next time". It convinces them that they are terribly vulnerable and must constantly protect themselves.
-The actual reason they didn't experience a catastrophe is that such catastrophes are typically not part of a fear or phobia. These are anxiety disorders, not catastrophe disorders. People get through the experience because the experience isn't actually dangerous. But it's understandably hard for people to recognize that at the time. They're more likely to think they just had a "narrow escape". This leads them to redouble their protective steps.
-It's the protective steps which actually maintain and strengthen the Anxiety Trick. If you think you just narrowly escaped a catastrophe because you had your cellular phone, or a water bottle; or because you went back and checked the stove seven times; or because you plugged in your iPod and distracted yourself with some music, then you're going to continue to feel vulnerable. And you're going to get more stuck in the habit of "protecting" yourself by these means.
-This is how the problem gets embedded in your life. You think you're helping yourself, but you've actually been tricked into making it worse. That's how sneaky this Trick is.
-This is why my patients so often say, "the harder I try, the worse it gets". If the harder you try, the worse it gets, then you should take another look at the methods you've been using. You've probably been tricked into trying to protect yourself against something that isn't dangerous, and this makes your fear worse over time.
+As I began to do things on my own, I began to taste the deliciousness of an emerging self-confidence. It wasn’t all comfortable—in fact, a lot of it
+was extremely uncomfortable. I felt like a child learning to walk and falling frequently. But with each step I felt a little surer of my ability to handle my life.
+
+As my confidence grew, I kept waiting for the fear to go away. Yet each time I ventured out into a new territory, I felt frightened and unsure of
+myself. “Well,” I told myself, “just keep putting yourself out there. Eventually the fear will go away.” It never did! One day a lightbulb went on 
+in my head as I suddenly realized the following truth: IT WILL NOT!
+
+Fear of particular situations dissolved when I finally confronted them. The “doing it” comes before the fear goes away.
 
 ZAVER
-People's natural instincts to protect themselves are what lead them to get tricked.
-This is where the cognitive behavioral methods of desensitization and exposure come in. They're intended as methods by which you can practice with (not against) the symptoms, and become less sensitive to them. As you lose your fear of the symptoms, through this practice, that's when the symptoms will fade.
-All too often, people get the idea that exposure means going to a place or situation where you're likely to get anxious, perhaps a highway or an elevator, and take a ride without getting anxious. That's not the point! The point is to actually go there and feel the anxiety, being sure to stay there and letting the anxiety leave first. This is what Claire Weekes called floating.
-The way to disarm the Anxiety Trick is to increasingly spend time with anxiety, to expose yourself to the thoughts and sensations, and allow them to subside over time.
-A person with Generalized Anxiety Disorder gets tricked into trying to stop the unwanted "what if?" thoughts, rather than accepting them and taking care of present business as thoughts come and go.
-A person with Social Phobia gets tricked into avoiding the party, or hiding in the corner if he attends, rather than say hello to a stranger and see what happens.
-A person with a dog phobia gets tricked into avoiding the feelings by avoiding all dogs, rather than spending time with a dog until the feelings pass.
+You may think others are lucky because they arent afraid to put themselves out there. NOT SO! They had to push through a tremendous amount of fear to get where they are today.
