@@ -17,7 +17,6 @@ tak mám 2 možnosti. buď pôjdem sama alebo budem sedieť doma a trhať si vla
 JADRO
 As I began to do things on my own, I began to taste the deliciousness of an emerging self-confidence. It wasn’t all comfortable—in fact, a lot of it
 was extremely uncomfortable. I felt like a child learning to walk and falling frequently. But with each step I felt a little surer of my ability to handle my life.
-
 As my confidence grew, I kept waiting for the fear to go away. Yet each time I ventured out into a new territory, I felt frightened and unsure of
 myself. “Well,” I told myself, “just keep putting yourself out there. Eventually the fear will go away.” It never did! One day a lightbulb went on 
 in my head as I suddenly realized the following truth: IT WILL NOT!
