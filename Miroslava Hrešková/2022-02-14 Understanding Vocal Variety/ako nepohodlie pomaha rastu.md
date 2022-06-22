@@ -1,0 +1,1 @@
+Ako nepohodlie pomaha rastu

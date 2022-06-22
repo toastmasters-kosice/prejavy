@@ -1,6 +1,3 @@
-Predsedanie
-	HLAVNA MYSLIENKA: everyone experiences fear whenever on unfamiliar territory
-
 UVOD
 Prečo sú ciele dôležité v našom živote?
 - Poskytujú nám smer a účel našej cesty v živote.
