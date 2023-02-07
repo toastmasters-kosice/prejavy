@@ -1,0 +1,19 @@
+# Montmartre
+
+Asi som divný. Keď sa prechádzam mestom, vidím ľudí, ktorí žijú prítomnosťou. Niektorí ani to nie, lebo sú ponorení vo svojich mobiloch. Mňa naopak fascinuje minulosť. Predstavujem si ako miesta, kde stojím, vyzerali kedysi. Za tie roky som sa podozvedal veľa historických zaujímavostí, o ktorých miestni ani len netušia. A niektoré miesta vo mne aj vďaka ich histórií rezonujú o to viac. A zaujímam sa nielen o miesta, kde žijem. Odmalička ma fascinuje Paríž a jeho bohatá história. Dnes sa pozrieme na jednu z jeho štvrtí, Montmartre. A verím, že ak sa vám raz pošťastí ísť do Montmartru na výlet, budete aj vy toto miesto vnímať inak.
+
+Pre nič netušiaceho turistu je Montmartre len ďalšia historická štvrť. Vyfotí si baziliku Sacre-Coure, navštívi známy kabaretný dom Moulin Rouge, kúpi si nejaký pekný obraz na pamiatku a večer sa zabaví v rockovom klube. Montmartre je však históriou nasiaknutý skrz-naskrz. Vráťme sa teraz späť v čase. A začneme pekne na začiatku.
+
+Dávno predtým, ako bol Montmartre tým, čím je dnes, to bol len obyčajný kopec. Počiatky jeho osídľovania siahajú do druhého až tretieho storočia nášho letopočtu. A čo znamená jeho názov? Slovenská Wikipédia tvrdí, že vraj Hora mučeníkov. To však nie je úplná pravda. Pôvodný názov bol Marsova hora, alebo Mons Martis. A časom sa skomolil na Mont des Martyrs. Azda k tomu prispela aj legenda o Svätom Denisovi. Čo vieme je, že okolo roku 250 nášho letopočtu, tam prišiel o hlavu na základe rozkazu rímskeho prefekta. Legenda vraví, že svoju hlavu zdvihol, vybral sa ďalej na sever a až tam zomrel. Svätý Denis bol mučeník.
+
+Montmartre sa stal súčasťou Paríža až v roku 1860. Dovtedy si žil svojím životom. V pätnástom storočí by ste tam našli dedinku obklopenú vinicami, záhradami, ovocnými sadmi s broskyňami a čerešňami. Rovnako ako mlyny. V čase najväčšieho rozmachu ich bolo 13. Dnes už existujú len v našich spomienkach. Aj vďaka maľbám Vincenta van Gogha či už spomínanému kabaretu Moulin Rouge, ktorý má na streche červený mlyn. Ten už však žito určite nemelie.
+
+Na Montmartri sa v minulosti nachádzali aj lomy sádrovca. Ten sa tam ťažil už od rímskych čias až do roku 1860. Aj v podzemných štôlňach. Táto ťažba narušila stabilitu kopca, čo neskôr skomplikovalo výstavbu Baziliky Sacre-Coure. Sádrovec sa používal ako omietka, lebo dobre odolával vode a ohňu.
+
+Sádrovec nás privádza k vzniku tretieho najväčšieho cintorína v Paríži. Montmarterský cintorín sa totiž nachádza v opustenom lome. No a ešte predtým, ako to bol cintorín, v čase Veľkej francúzskej revolúcie tento lom slúžil ako masový hrob obetí revolúcie. Na tomto cintoríne leží mnoho slávnych umelcov. Medzi inými impresionista Edgar Degas alebo Alexander Dumas mladší. Syn muža, čo nám priniesol Troch mušketierov. No i on sám sa činil. Na základe jeho románu Dáma s kaméliami Giuseppe Verdi skomponoval operu La traviata.
+
+Umelcami to v Montmartri žilo predovšetkým v období La Belle Époque. To je obdobie zhruba od roku 1880 až do vypuknutia Prvej svetovej vojny. Aspoň na chvíľu ste sa tam mohli ocitnúť vďaka filmu Polnoc v Paríži od Woodyho Allena. Lákal ich tam lacný podnájom a atmosféra. Stretnúť ste tam mohli Picassa, Modiglianiho, Henriho Matissea a mnohých ďalších.
+
+Umenie na Montmartri ostalo zachované aj dnes. Na Place du Tertre nájdete umelcov, ktorí vás na počkanie namaľujú. Ale žije to tam aj hudbou, predovšetkým tou rockovou. Nájdete tam veľa malých obchodíkov a hudobných klubov. Montmartre sa dostáva do povedomia cudzincov aj vďaka filmom. Odohráva sa tam aj podstatná časť filmu Amélia z Montmartru, ktorý ma inšpiroval k tomuto prejavu.
+
+Asi som divný. Keď sa prechádzam mestom, vidím jeho minulosť. A verím, že odteraz si ju začnete viac všímať aj vy.
