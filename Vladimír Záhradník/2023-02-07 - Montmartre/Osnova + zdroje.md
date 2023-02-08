@@ -1,0 +1,44 @@
+# Montmartre - Osnova a zdroje
+
+- Úvod + vsuvka o Historickom slovníku Paríža
+- 2. až 3. storočie - Rimania - kúpele
+- História názvu
+  - **Marsova hora, alebo Mons Martis**
+  - **Mont des Martyrs**
+  - Legenda o svätom Denisovi
+    - Okolo **roku 250** ho na vrchole hory nechal sťať vtedajší rímsky prefekt
+  - 15. storočie
+    - Montmartre bol dedina s vinicami, záhradami, ovocnými sadmi
+    - K Parížu sa pripojil až od **roku 1860**
+  - Mlyny
+    - V čase najväčšieho rozmachu **13 mlynov** (Historický slovník), podľa webu **French Monuments až 30 mlynov**
+    - Dodnes sa zachovali len dva. Podľa webu **French Monuments** ich zvyknú nazývať spoločným názvom **Moulin de la Galette**
+    - Zachytený na viacerých obrazoch, vrátane tých od van Gogha
+    - Časom zmenili mlyny zameranie
+    - Le Moulin Blute-Fin slúžil ako tanečná sála a neskôr dokonca ako kabaret
+    - Moulin Rouge - ikonický červený mlyn na streche
+  - Ťažba sádrovca
+    - Drvený sádrovec nazývaný **montmartrerit**
+    - Používal sa na omietky, lebo dobre odoláva vlhku a ohňu
+    - Ťažil sa až do roku 1860
+  - Montmarterský cintorín
+    - **Paris.fr** - Nachádza sa v opustenom lome na sádrovec
+    - Počas Francúzskej revolúcie to bol masový hrob
+    - Dnes tam odpočívajú mnohí známi umelci, vrátane **impresionistu Edgara Degasa** a **Alexandra Dumasa mladšieho**
+    - Dáma s kaméliami, La traviatta, Giuseppe Verdi
+  - La belle Époque
+    - 1880 - Prvá svetová vojna
+    - Robotnícka trieda
+    - Radikálne politické názory, underground
+    - Nízke nájmy, lebo Montmartre bol ďaleko od centra
+    - Lákal študentov, spisovateľov, maliarov, ...
+    - Picasso, Henri Matisse
+    - esej **The Lure of Montmartre**
+  - Súčasnosť
+    - **French Moments**
+    - Place du Tertre
+    - Hudobné obchodíky
+    - Hudobné kluby
+    - Suveníry, portréty turistov
+  - Záver
+    - Asi som divný

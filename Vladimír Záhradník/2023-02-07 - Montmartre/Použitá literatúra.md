@@ -1,0 +1,14 @@
+# Použitá literatúra
+- Dictionnaire historique de Paris (https://www.amazon.fr/Dictionnaire-historique-Paris-Collectif/dp/2253131407)
+- Esej "The Lure of Montmartre" (https://www.metmuseum.org/toah/hd/mont/hd_mont.htm)
+- Web French Moments:
+  - https://frenchmoments.eu/windmills-of-montmartre-paris/
+  - https://frenchmoments.eu/montmartre-paris/#t-1675806543060
+- Web Paris.fr (https://web.archive.org/web/20140714173403/http://www.paris.fr/english/heritage-and-sights/cemeteries/montmartre-cemetery/rub_8222_stand_34189_port_19019)
+- Ostatné zdroje nepoužité ako priama citácia
+  - Web baziliky Sacre-Coeur (https://www.sacre-coeur-montmartre.com/english/history-and-visit/article/montmartre-the-mount-of-martyrs)
+  - https://worldinparis.com/interesting-facts-about-the-sacre-coeur-montmartre
+  - https://www.travelfranceonline.com/montmartre-cemetery-facts-and-graves/
+  - https://www.travelfranceonline.com/montmartre-cemetery-facts-and-graves/
+  - https://en.parisinfo.com/discovering-paris/walks-in-paris/montmartre-village-in-paris
+  - https://montmartrefootsteps.com/montmartre-historical-cultural-context/
