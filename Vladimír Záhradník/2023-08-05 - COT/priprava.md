@@ -108,3 +108,21 @@
 - Smedley Award
 - Talk Up Toastmasters!
 - Beat the Clock!
+
+# Storytelling
+- Google Earth, postupný zoom až na Košice. Je otázne, či viem toto video využiť, ale minimálne odtiaľ získam mapu, čo potrebujem.
+- Zobrazím mapku Toastmasters na Slovensku so zoomom na Toastmasters Košice. Pozn. skúsim použiť mapu z Google máp.
+- Zobrazím štruktúru klubu. Na vrchole prezident, pod ním VP a nakoniec členovia
+- Pozn.: Toto sa stále zobrazuje s mapou na pozadí
+- Následne zoom out na celé Slovensko. Zobrazia sa ďalšie slovenské kluby.
+- Zoom na Bratislavu. Západné Slovensko, Žilinu, zoom out. Zobrazím, či sú komunitný/korporátny, jazyk stretnutí
+- Zobrazím pyramídu člen, kluby, arey, divízia, dištrikt, región, TMI. Vysvetlím, že kluby sa združujú do areí. Túto fotku budem používať opakovane pri vysvetlení ďalších levelov.
+- Zoom na arey
+- Zobrazím Zuzku a jej kluby, Danku a jej kluby
+- Následne posuniem strom na mňa so Zuzkou a Dankou podo mnou a druhá vetva len "Ukrajina"
+- Pyramída a zoom na dištrikt. Zobrazím mapku s krajinami z webu dištriktu. Následne aspoň ukážem štruktúru dištriktu a dám tam fotku nášho dištrikt directora
+- Pyramída a zoom na región 10 - Európa. Následne zoom out na celý svet.
+- Tu uzavriem časť kto a kde.
+- Presun na kalendár. Zobrazím timelinu. Použijem existujúcu šablónu. Touto časťou začnem, keďže je dôležitejšia
+- Postupne prejdem dôležité akcie.
+- Záver len nejaký jednoduchý slajd. Pokojne v štýle pozvánky na COT.
