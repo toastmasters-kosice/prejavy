@@ -1,6 +1,6 @@
 # Notes: Connect with Storytelling
 
-Message: Always find your WHY
+Message: Always find your WHYs: My journey to Division Director
 
 Intro:
 I always keep saying: Toastmasters is a ride. Sometimes we hit some bumps but when I look back, the ride brings smile to my face.
