@@ -19,6 +19,8 @@ Outline:
 - District Conference in Bucharest
 - Building a strong team with Nataly and Vadym
 
+Charles Darwin:
+According to Darwin's Origin of Species, it is not the most intellectual of the species that survives; it is not the strongest that survives; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.
 
 ---
 25.6.2023: Division B (B1, B2) Collaboration
@@ -39,3 +41,10 @@ Your first big task is to organize the Club Officer Training. If you need someth
 
 Cheers,
 Vladimir
+
+Feedback:
+- Dobrá štruktúra
+- Dobré tempo reči
+- Hrané pasáže s inými rečníkmi
+- Popracovať na práci s hlasom a občas dať dlhšie pauzy
+- Popracovať na gestách, ktoré nie vždy podporili prejav. Usmieval som sa, keď som hovoril o niečom negatívnom
