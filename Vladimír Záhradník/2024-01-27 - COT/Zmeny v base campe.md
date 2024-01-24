@@ -19,5 +19,5 @@
   - Visionary Communication
 - Všetky ostatné cesty ostanú prístupné v starom LMS a len pre tých, ktorí si ich zakúpia v čase pred migráciou.
 
-# Zdroje
+## Zdroje
 https://www.toastmasters.org/education/pathways/pathways-updates
