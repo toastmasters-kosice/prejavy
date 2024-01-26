@@ -59,6 +59,12 @@ VPE je podľa mňa najdôležitejšia rola v klube. Nie prezident, ale VPE. Ak k
   - Manažovanie úloh / delegovanie
   - Ako zvládať TM povinnosti popri ďalších koníčkoch a práci? -> Moja pozn.: Priority. Dokončiť jedno, začať druhé.
 
+### Hlasovanie
+- Vyhorenie: 1,3 (4)
+- Mentoring: 2,4 (6)
+- Pasivita: 3,4,4,4 (15)
+- Ostatné: 4 (4)
+
 ## Zdroje
 - https://www.toastmasters.org/magazine/magazine-issues/2022/june/vpe
 - https://www.toastmasters.org/resources/vice-president-education-overview
