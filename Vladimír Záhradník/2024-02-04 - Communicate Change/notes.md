@@ -27,6 +27,7 @@ The goal of the speech:
 - TM members are familiar with it
 - Easy TM planning
 - Meeting dates and details are available for everyone. They don't need to folow a Telegram group
+- There are 1883 clubs active over the three installations
 - Bonus: Member progress insights
 - https://tmclub.eu/faq.php#9
 
