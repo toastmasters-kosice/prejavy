@@ -4,3 +4,5 @@ Sergey:
 - Celkovo sa mu prejav páčil, vysoko zhodnotil kvalitu prejavu a prípravu.
 - Chýbalo mu tam viac emócií a inšpirácie. Napríklad dať do Call To Action viac otvorených otázok, nabudiť tých ľudí. Na tomto budem pracovať.
 - Know your audience: easySpeak používali pred dvomi rokmi. Keby som to vedel, prejav by som tomu prispôsobil.
+
+- čas: skoro 9 minút. O dve minúty dlhšie.
