@@ -3,3 +3,4 @@ Strong start - We are at the crossroads..... I would have liked to see a LONG pa
 Sergey:
 - Celkovo sa mu prejav páčil, vysoko zhodnotil kvalitu prejavu a prípravu.
 - Chýbalo mu tam viac emócií a inšpirácie. Napríklad dať do Call To Action viac otvorených otázok, nabudiť tých ľudí. Na tomto budem pracovať.
+- Know your audience: easySpeak používali pred dvomi rokmi. Keby som to vedel, prejav by som tomu prispôsobil.
