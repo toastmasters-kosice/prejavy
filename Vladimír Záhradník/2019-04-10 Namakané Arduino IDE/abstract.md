@@ -1,2 +1,0 @@
-# PlatformIO: Namakané Arduino IDE
-S vývojovým prostredím Arduino IDE sa stretol asi každý, kto s Arduinom prišiel do kontaktu. Toto prostredie funguje, ale ani zďaleka nie je dokonalé. Predstavím vám PlatformIO. Prostredie, ktoré dokáže Arduino IDE úplne nahradiť a vašu prácu vám zjednoduší.
